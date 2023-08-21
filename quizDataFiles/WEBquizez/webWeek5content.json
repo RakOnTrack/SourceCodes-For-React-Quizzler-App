@@ -1,0 +1,167 @@
+{
+  "results": [
+    {
+      "question": "What is the purpose of the 'pages' folder in a Next.js app?",
+      "correct_answer": "To define routes for different pages in the application",
+      "incorrect_answers": [
+        "To store API endpoints",
+        "To store CSS stylesheets",
+        "To store reusable components"
+      ]
+    },
+    {
+      "question": "How can you add a new route in Next.js?",
+      "correct_answer": "By creating a new file in the 'pages' folder with the desired route name",
+      "incorrect_answers": [
+        "By modifying the '_app.js' file",
+        "By adding a new entry in the 'next.config.js' file",
+        "By creating a new component in the 'components' folder"
+      ]
+    },
+    {
+      "question": "How can you create a nested route in Next.js?",
+      "correct_answer": "By creating a nested folder structure within the 'pages' folder",
+      "incorrect_answers": [
+        "By adding a query parameter to the URL",
+        "By modifying the 'next.config.js' file",
+        "By creating a new file in the 'components' folder"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'Layout' component in Next.js?",
+      "correct_answer": "To reuse common components across multiple pages",
+      "incorrect_answers": [
+        "To handle client-side page transitions",
+        "To define API routes",
+        "To style the application"
+      ]
+    },
+    {
+      "question": "Where should the 'Layout' component be placed in the project folder structure?",
+      "correct_answer": "In the 'components' folder",
+      "incorrect_answers": [
+        "In the 'pages' folder",
+        "In the 'public' folder",
+        "In the 'styles' folder"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'Link' component in Next.js?",
+      "correct_answer": "To enable client-side routing and improve page transitions",
+      "incorrect_answers": [
+        "To fetch data from an API",
+        "To handle form submissions",
+        "To define CSS styles"
+      ]
+    },
+    {
+      "question": "Which hook from 'next/router' can be used to obtain the router object in a Next.js component?",
+      "correct_answer": "useRouter",
+      "incorrect_answers": [
+        "useParams",
+        "useQuery",
+        "useNavigation"
+      ]
+    },
+    {
+      "question": "What does the 'router.push' method do in Next.js?",
+      "correct_answer": "Navigates to a new route programmatically",
+      "incorrect_answers": [
+        "Fetches data from an API",
+        "Updates the browser's history stack",
+        "Scrolls to the top of the page"
+      ]
+    },
+    {
+      "question": "How can you read and display a route parameter in a Next.js component?",
+      "correct_answer": "By using the 'useRouter' hook and accessing the 'query' property",
+      "incorrect_answers": [
+        "By using the 'useParams' hook and accessing the 'params' property",
+        "By using the 'getQueryParams' function from 'next/router'",
+        "By using the 'getLocation' function from 'next/router'"
+      ]
+    },
+    {
+      "question": "How are routes defined in Next.js?",
+      "correct_answer": "By the name of the file within the 'pages' folder",
+      "incorrect_answers": [
+        "By the name of the exported component",
+        "By the name of the folder containing the file",
+        "By the path specified in the '_app.js' file"
+      ]
+    },
+    {
+      "question": "What is the purpose of nested routes in Next.js?",
+      "correct_answer": "To create routes with a nested folder structure",
+      "incorrect_answers": [
+        "To create routes with dynamic parameters",
+        "To create routes with query parameters",
+        "To create routes with custom error pages"
+      ]
+    },
+    {
+      "question": "Where should common components like a navbar or footer be placed in Next.js?",
+      "correct_answer": "In a 'components' folder",
+      "incorrect_answers": [
+        "In a 'pages' folder",
+        "In the root directory of the project",
+        "In the 'styles' folder"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'Layout' component in Next.js?",
+      "correct_answer": "To include common components in multiple pages",
+      "incorrect_answers": [
+        "To define the overall structure of the application",
+        "To handle client-side page transitions",
+        "To create custom error pages"
+      ]
+    },
+    {
+      "question": "Which component is used for client-side routing in Next.js?",
+      "correct_answer": "'Link'",
+      "incorrect_answers": [
+        "'Router'",
+        "'Navigate'",
+        "'Redirect'"
+      ]
+    },
+    {
+      "question": "How can dynamic route parameters be read in Next.js?",
+      "correct_answer": "Using the 'useRouter' hook",
+      "incorrect_answers": [
+        "Using the 'Link' component",
+        "Using the 'getStaticProps' function",
+        "Using the 'getStaticPaths' function"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'fallback' property in 'getStaticPaths' function?",
+      "correct_answer": "To control whether accessing an undefined route parameter results in a 404 error",
+      "incorrect_answers": [
+        "To specify the URL to navigate to",
+        "To control scrolling behavior after navigation",
+        "To preload data for faster page transitions"
+      ]
+    },
+    {
+      "question": "How can custom error pages be created in Next.js?",
+      "correct_answer": "By creating '404.js' or '500.js' files in the 'pages' folder",
+      "incorrect_answers": [
+        "By modifying the '_app.js' file",
+        "By using the 'Layout' component",
+        "By defining the error pages in the 'next.config.js' file"
+      ]
+    },
+    {
+      "question": "What is the purpose of 'Api' routes in Next.js?",
+      "correct_answer": "To specify routes for a Web API on the same server as the Next.js app",
+      "incorrect_answers": [
+        "To handle client-side page transitions",
+        "To create dynamic routes with query parameters",
+        "To include common components in multiple pages"
+      ]
+    }
+  ],
+  "setCount": 2
+}

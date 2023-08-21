@@ -1,0 +1,140 @@
+{
+  "results": [
+    {
+      "question": "What is Bootstrap?",
+      "correct_answer": "A front-end toolkit used to build websites / user interfaces",
+      "incorrect_answers": [
+        "A back-end programming language",
+        "A database management system",
+        "A graphic design software"
+      ]
+    },
+    {
+      "question": "Which version of Bootstrap dropped support for Internet Explorer?",
+      "correct_answer": "Bootstrap 5",
+      "incorrect_answers": [
+        "Bootstrap 4",
+        "Bootstrap 3",
+        "Bootstrap 2"
+      ]
+    },
+    {
+      "question": "What is the main purpose of the Bootstrap grid system?",
+      "correct_answer": "Organizing layout and placing UI elements",
+      "incorrect_answers": [
+        "Managing server-side resources",
+        "Handling user authentication",
+        "Generating data visualizations"
+      ]
+    },
+    {
+      "question": "How can you include Bootstrap in your project?",
+      "correct_answer": "By adding the CDN links directly in the HTML file",
+      "incorrect_answers": [
+        "By downloading the Source Files and customizing them using Sass",
+        "By using a package manager like npm to install Bootstrap",
+        "By importing the Bootstrap library in the back-end code"
+      ]
+    },
+    {
+      "question": "What is the core concept of the Bootstrap grid system?",
+      "correct_answer": "Container, row, and column elements",
+      "incorrect_answers": [
+        "Header, body, and footer elements",
+        "Section, article, and aside elements",
+        "Div, span, and p elements"
+      ]
+    },
+    {
+      "question": "What class is used to create a container in Bootstrap?",
+      "correct_answer": "container",
+      "incorrect_answers": [
+        "row",
+        "col",
+        "container-fluid"
+      ]
+    },
+    {
+      "question": "What class is used to create a row in Bootstrap?",
+      "correct_answer": "row",
+      "incorrect_answers": [
+        "container",
+        "col",
+        "container-fluid"
+      ]
+    },
+    {
+      "question": "What class is used to create a column in Bootstrap?",
+      "correct_answer": "col",
+      "incorrect_answers": [
+        "row",
+        "container",
+        "container-fluid"
+      ]
+    },
+    {
+      "question": "What is the default behavior of columns in Bootstrap?",
+      "correct_answer": "Equal width side-by-side",
+      "incorrect_answers": [
+        "Fixed width",
+        "Fluid width",
+        "Full width"
+      ]
+    },
+    {
+      "question": "How many responsive breakpoints are there in Bootstrap 5?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "4",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "question": "What is the smallest viewport size in Bootstrap's responsive breakpoints?",
+      "correct_answer": "X-Small (<576px)",
+      "incorrect_answers": [
+        "Small (\u00e2\u2030\u00a5576px)",
+        "Medium (\u00e2\u2030\u00a5768px)",
+        "Large (\u00e2\u2030\u00a5992px)"
+      ]
+    },
+    {
+      "question": "What class infix is used for the Medium breakpoint in Bootstrap?",
+      "correct_answer": "md",
+      "incorrect_answers": [
+        "sm",
+        "lg",
+        "xl"
+      ]
+    },
+    {
+      "question": "How can you target the Small breakpoint in Bootstrap?",
+      "correct_answer": "Using the class infix 'sm'",
+      "incorrect_answers": [
+        "Using the class infix 'md'",
+        "Using the class infix 'lg'",
+        "Using the class infix 'xl'"
+      ]
+    },
+    {
+      "question": "What is an additional option available in Bootstrap grid system?",
+      "correct_answer": "Mix and match classes for finer control",
+      "incorrect_answers": [
+        "Automated layout generation",
+        "Built-in form validation",
+        "Drag and drop functionality"
+      ]
+    },
+    {
+      "question": "What class is used to create a navigation bar in Bootstrap?",
+      "correct_answer": "navbar",
+      "incorrect_answers": [
+        "nav",
+        "navbar-brand",
+        "navbar-nav"
+      ]
+    }
+  ],
+  "setCount": 1
+}

@@ -1,0 +1,383 @@
+{
+  "results": [
+    {
+      "question": "What is the critical path in project scheduling?",
+      "correct_answer": "The longest path through a project's network diagram that determines the shortest project duration.",
+      "incorrect_answers": [
+        "The path with the most tasks in the project schedule.",
+        "The path with the highest resource allocation.",
+        "The path that requires the least amount of effort."
+      ]
+    },
+    {
+      "question": "What is the purpose of a Gantt chart in project scheduling?",
+      "correct_answer": "To visually represent the project schedule and its tasks over time.",
+      "incorrect_answers": [
+        "To allocate resources to project tasks.",
+        "To calculate the critical path.",
+        "To determine project milestones."
+      ]
+    },
+    {
+      "question": "What does the term 'float' or 'slack' refer to in project scheduling?",
+      "correct_answer": "The amount of time a task can be delayed without affecting the project's overall duration.",
+      "incorrect_answers": [
+        "The time it takes to complete a task.",
+        "The number of tasks assigned to a resource.",
+        "The duration of the critical path."
+      ]
+    },
+    {
+      "question": "What is the purpose of a milestone in project scheduling?",
+      "correct_answer": "To mark significant events or stages in the project's timeline.",
+      "incorrect_answers": [
+        "To assign resources to specific tasks.",
+        "To determine the project's critical path.",
+        "To calculate the project's cost estimate."
+      ]
+    },
+    {
+      "question": "What is the difference between crashing and fast-tracking in project scheduling?",
+      "correct_answer": "Crashing involves adding more resources to compress the schedule, while fast-tracking involves rearranging tasks to overlap or occur in parallel.",
+      "incorrect_answers": [
+        "Crashing involves reducing the project scope, while fast-tracking involves increasing resource allocation.",
+        "Crashing involves removing non-critical tasks, while fast-tracking involves speeding up task completion.",
+        "Crashing involves delaying tasks, while fast-tracking involves accelerating task completion."
+      ]
+    },
+    {
+      "question": "What is the purpose of a network diagram in project scheduling?",
+      "correct_answer": "To illustrate task dependencies and the sequence in which they should be performed.",
+      "incorrect_answers": [
+        "To estimate the project's duration.",
+        "To determine the project's critical path.",
+        "To allocate resources to project tasks."
+      ]
+    },
+    {
+      "question": "What is the difference between a resource-limited schedule and a time-limited schedule?",
+      "correct_answer": "A resource-limited schedule focuses on allocating limited resources, while a time-limited schedule focuses on meeting a specific deadline.",
+      "incorrect_answers": [
+        "A resource-limited schedule involves compressing the project's duration, while a time-limited schedule involves increasing resource allocation.",
+        "A resource-limited schedule involves reducing the project scope, while a time-limited schedule involves adding more tasks.",
+        "A resource-limited schedule involves reducing task dependencies, while a time-limited schedule involves extending task durations."
+      ]
+    },
+    {
+      "question": "What is the purpose of a project schedule baseline?",
+      "correct_answer": "To provide a reference point for measuring project performance and tracking deviations.",
+      "incorrect_answers": [
+        "To allocate resources to project tasks.",
+        "To determine the project's critical path.",
+        "To estimate the project's duration."
+      ]
+    },
+    {
+      "question": "What is the difference between PERT and CPM in project scheduling?",
+      "correct_answer": "PERT incorporates uncertainty and variability in task durations, while CPM assumes fixed task durations.",
+      "incorrect_answers": [
+        "PERT is used for small projects, while CPM is used for large projects.",
+        "PERT focuses on time-limited schedules, while CPM focuses on resource-limited schedules.",
+        "PERT involves fast-tracking, while CPM involves crashing."
+      ]
+    },
+    {
+      "question": "What is the purpose of a resource histogram in project scheduling?",
+      "correct_answer": "To visualize resource utilization and identify potential resource bottlenecks.",
+      "incorrect_answers": [
+        "To determine the project's critical path.",
+        "To allocate resources to specific tasks.",
+        "To calculate the project's duration."
+      ]
+    },
+    {
+      "question": "What is the difference between lead time and lag time in project scheduling?",
+      "correct_answer": "Lead time represents how much a successor task can start before its predecessor task finishes, while lag time represents the delay between two dependent tasks.",
+      "incorrect_answers": [
+        "Lead time represents the delay between two dependent tasks, while lag time represents how much a successor task can start before its predecessor task finishes.",
+        "Lead time refers to the project's duration, while lag time refers to the project's critical path.",
+        "Lead time refers to resource allocation, while lag time refers to task dependencies."
+      ]
+    },
+    {
+      "question": "What is the purpose of a project network diagram in project scheduling?",
+      "correct_answer": "To depict task dependencies and the sequence in which tasks should be performed.",
+      "incorrect_answers": [
+        "To calculate the project's duration.",
+        "To allocate resources to project tasks.",
+        "To determine the project's critical path."
+      ]
+    },
+    {
+      "question": "What is the difference between a Gantt chart and a milestone chart in project scheduling?",
+      "correct_answer": "A Gantt chart displays tasks and their durations over time, while a milestone chart focuses on significant project events or stages.",
+      "incorrect_answers": [
+        "A Gantt chart displays tasks in a hierarchical structure, while a milestone chart shows the project's critical path.",
+        "A Gantt chart shows the project's budget, while a milestone chart displays resource allocation.",
+        "A Gantt chart represents the project's critical path, while a milestone chart shows task dependencies."
+      ]
+    },
+    {
+      "question": "What is the purpose of a schedule compression technique in project scheduling?",
+      "correct_answer": "To shorten the project schedule duration without changing the project scope.",
+      "incorrect_answers": [
+        "To adjust task dependencies to optimize resource allocation.",
+        "To allocate more resources to project tasks.",
+        "To identify and eliminate non-critical tasks."
+      ]
+    },
+    {
+      "question": "What is the difference between a finish-to-start and a start-to-start dependency in project scheduling?",
+      "correct_answer": "A finish-to-start dependency requires a predecessor task to finish before a successor task can start, while a start-to-start dependency allows a successor task to start as soon as its predecessor task starts.",
+      "incorrect_answers": [
+        "A finish-to-start dependency requires a successor task to start before a predecessor task finishes, while a start-to-start dependency allows a predecessor task to start as soon as its successor task starts.",
+        "A finish-to-start dependency involves task lag, while a start-to-start dependency involves task lead.",
+        "A finish-to-start dependency is used in resource-limited schedules, while a start-to-start dependency is used in time-limited schedules."
+      ]
+    },
+    {
+      "question": "What is the purpose of a project buffer in project scheduling?",
+      "correct_answer": "To account for uncertainties and variations in task durations, ensuring the project's critical path is not affected.",
+      "incorrect_answers": [
+        "To allocate additional resources to project tasks.",
+        "To compress the project schedule duration.",
+        "To determine the project's baseline."
+      ]
+    },
+    {
+      "question": "What is the difference between a hard deadline and a soft deadline in project scheduling?",
+      "correct_answer": "A hard deadline is an inflexible deadline that must be met, while a soft deadline is a flexible deadline that can be adjusted within reason.",
+      "incorrect_answers": [
+        "A hard deadline is a project milestone, while a soft deadline is a task duration.",
+        "A hard deadline is determined by the project's critical path, while a soft deadline is determined by task dependencies.",
+        "A hard deadline is fixed and cannot be adjusted, while a soft deadline can be extended without consequences."
+      ]
+    },
+    {
+      "question": "What is the purpose of a resource calendar in project scheduling?",
+      "correct_answer": "To specify the availability and working hours of resources, helping to allocate resources to project tasks.",
+      "incorrect_answers": [
+        "To calculate the project's duration.",
+        "To identify the project's critical path.",
+        "To determine the project's cost estimate."
+      ]
+    },
+    {
+      "question": "What is the difference between a milestone and a deliverable in project scheduling?",
+      "correct_answer": "A milestone represents a significant event or stage in the project, while a deliverable is a tangible output or result.",
+      "incorrect_answers": [
+        "A milestone is a project constraint, while a deliverable is a project risk.",
+        "A milestone is a task duration, while a deliverable is a project resource.",
+        "A milestone is an optional project element, while a deliverable is a mandatory project element."
+      ]
+    },
+    {
+      "question": "What is the purpose of a resource leveling technique in project scheduling?",
+      "correct_answer": "To adjust task scheduling and resource allocation to prevent resource overloading or underutilization.",
+      "incorrect_answers": [
+        "To estimate the project's duration.",
+        "To calculate the project's critical path.",
+        "To allocate additional resources to project tasks."
+      ]
+    },
+    {
+      "question": "What is the difference between a fixed duration and a fixed work task in project scheduling?",
+      "correct_answer": "A fixed duration task has a predetermined duration, while a fixed work task requires a predetermined effort or work units.",
+      "incorrect_answers": [
+        "A fixed duration task involves resource allocation, while a fixed work task involves task dependencies.",
+        "A fixed duration task is always on the critical path, while a fixed work task can be non-critical.",
+        "A fixed duration task allows task dependencies, while a fixed work task does not require task dependencies."
+      ]
+    },
+    {
+      "question": "What is the purpose of a resource-constrained schedule in project scheduling?",
+      "correct_answer": "To account for limited resources and allocate them efficiently to project tasks.",
+      "incorrect_answers": [
+        "To compress the project schedule duration.",
+        "To determine the project's critical path.",
+        "To estimate the project's duration."
+      ]
+    },
+    {
+      "question": "What is the difference between a Hammock task and a Summary task in project scheduling?",
+      "correct_answer": "A Hammock task represents a group of related tasks, while a Summary task provides an overview of a project phase or stage.",
+      "incorrect_answers": [
+        "A Hammock task is a project milestone, while a Summary task is a task duration.",
+        "A Hammock task involves task dependencies, while a Summary task does not have dependencies.",
+        "A Hammock task is a critical path task, while a Summary task is a non-critical task."
+      ]
+    },
+    {
+      "question": "What is the purpose of a schedule network analysis in project scheduling?",
+      "correct_answer": "To assess the project's critical path, analyze task dependencies, and optimize the project schedule.",
+      "incorrect_answers": [
+        "To determine the project's baseline.",
+        "To allocate resources to project tasks.",
+        "To calculate the project's duration."
+      ]
+    },
+    {
+      "question": "What is the difference between a forward pass and a backward pass in project scheduling?",
+      "correct_answer": "A forward pass determines the earliest start and finish times for each task, while a backward pass determines the latest start and finish times.",
+      "incorrect_answers": [
+        "A forward pass calculates task durations, while a backward pass calculates task dependencies.",
+        "A forward pass is used in time-limited schedules, while a backward pass is used in resource-limited schedules.",
+        "A forward pass identifies the project's critical path, while a backward pass identifies non-critical tasks."
+      ]
+    },
+    {
+      "question": "What is the purpose of a milestone trend analysis in project scheduling?",
+      "correct_answer": "To track the progress of project milestones over time, identifying trends and potential deviations from the project schedule.",
+      "incorrect_answers": [
+        "To determine the project's critical path.",
+        "To allocate resources to project tasks.",
+        "To estimate the project's duration."
+      ]
+    },
+    {
+      "question": "What is the difference between an early start date and a late start date in project scheduling?",
+      "correct_answer": "An early start date is the earliest possible start time for a task, while a late start date is the latest possible start time without delaying the project's completion.",
+      "incorrect_answers": [
+        "An early start date is based on task dependencies, while a late start date is based on resource availability.",
+        "An early start date represents the project's baseline, while a late start date represents the project's current status.",
+        "An early start date is fixed and cannot be adjusted, while a late start date can be extended within reason."
+      ]
+    },
+    {
+      "question": "What is the purpose of a schedule variance in project scheduling?",
+      "correct_answer": "To measure the difference between the project's planned progress and its actual progress at a given point.",
+      "incorrect_answers": [
+        "To allocate resources to project tasks.",
+        "To determine the project's critical path.",
+        "To estimate the project's duration."
+      ]
+    },
+    {
+      "question": "What is the difference between a lead time and a lag time in project scheduling?",
+      "correct_answer": "A lead time represents how much a successor task can start before its predecessor task finishes, while a lag time represents the delay between two dependent tasks.",
+      "incorrect_answers": [
+        "A lead time represents the delay between two dependent tasks, while a lag time represents how much a successor task can start before its predecessor task finishes.",
+        "A lead time refers to the project's duration, while a lag time refers to the project's critical path.",
+        "A lead time refers to resource allocation, while a lag time refers to task dependencies."
+      ]
+    },
+    {
+      "question": "Which of the following best describes the importance of project schedules in project success?",
+      "correct_answer": "Project schedules help in organizing and coordinating project activities, ensuring timely completion and resource optimization.",
+      "incorrect_answers": [
+        "Project schedules are unnecessary and only add complexity to the project.",
+        "Project schedules are useful only for large-scale projects.",
+        "Project schedules are solely the responsibility of the project manager and have no impact on project success."
+      ]
+    },
+    {
+      "question": "What is the process of planning schedule management called?",
+      "correct_answer": "Schedule Management Plan",
+      "incorrect_answers": [
+        "Activity Sequencing",
+        "Project Schedule Development",
+        "Activity Duration Estimation"
+      ]
+    },
+    {
+      "question": "What is the basis for developing project schedules?",
+      "correct_answer": "Activities",
+      "incorrect_answers": [
+        "Dependencies",
+        "Network Diagrams",
+        "Gantt Charts"
+      ]
+    },
+    {
+      "question": "How do project managers use network diagrams and dependencies?",
+      "correct_answer": "To assist in activity sequencing",
+      "incorrect_answers": [
+        "To determine critical paths",
+        "To estimate activity durations",
+        "To track schedule information"
+      ]
+    },
+    {
+      "question": "Which of the following tools and techniques helps project managers perform activity duration estimates?",
+      "correct_answer": "Analogous Estimating",
+      "incorrect_answers": [
+        "Critical Chain Scheduling",
+        "Program Evaluation and Review Technique (PERT)",
+        "Resource Leveling"
+      ]
+    },
+    {
+      "question": "What is the purpose of using a Gantt chart for planning and tracking schedule information?",
+      "correct_answer": "To visualize the project schedule and identify critical tasks",
+      "incorrect_answers": [
+        "To estimate project costs",
+        "To manage project risks",
+        "To allocate project resources"
+      ]
+    },
+    {
+      "question": "What does the critical path represent in a project schedule?",
+      "correct_answer": "The longest path of dependent activities that determines the project's overall duration",
+      "incorrect_answers": [
+        "The path with the highest resource utilization",
+        "The path with the most critical tasks",
+        "The path that requires the most budget allocation"
+      ]
+    },
+    {
+      "question": "How does critical chain scheduling affect schedule development?",
+      "correct_answer": "It considers resource availability and buffers to protect project schedule",
+      "incorrect_answers": [
+        "It focuses on reducing project scope",
+        "It accelerates project activities",
+        "It optimizes resource allocation"
+      ]
+    },
+    {
+      "question": "What is the Program Evaluation and Review Technique (PERT) used for in project schedule management?",
+      "correct_answer": "To estimate activity durations when there is uncertainty",
+      "incorrect_answers": [
+        "To identify critical tasks in a project",
+        "To determine the project's cost baseline",
+        "To evaluate project risks"
+      ]
+    },
+    {
+      "question": "How does schedule management differ in Agile vs. predictive project approaches?",
+      "correct_answer": "Agile emphasizes iterative planning and flexibility, while predictive follows a more sequential and rigid approach.",
+      "incorrect_answers": [
+        "Agile focuses on detailed planning, while predictive focuses on high-level planning.",
+        "Agile uses Gantt charts, while predictive uses network diagrams.",
+        "Agile allows no changes to the project schedule, while predictive allows unlimited changes."
+      ]
+    },
+    {
+      "question": "What role do reality checks and discipline play in controlling and managing changes to the project schedule?",
+      "correct_answer": "They help ensure changes are assessed and implemented appropriately, considering project constraints and objectives.",
+      "incorrect_answers": [
+        "They prevent any changes to the project schedule.",
+        "They accelerate the implementation of changes to meet deadlines.",
+        "They focus only on the impacts of changes on project costs."
+      ]
+    },
+    {
+      "question": "How can project management software assist in project schedule management?",
+      "correct_answer": "By automating schedule calculations, providing visual representations, and facilitating collaboration",
+      "incorrect_answers": [
+        "By generating project reports and presentations",
+        "By predicting project risks and uncertainties",
+        "By replacing the role of the project manager"
+      ]
+    },
+    {
+      "question": "What considerations are important for project schedule management in agile/adaptive environments?",
+      "correct_answer": "Embracing change, promoting self-organization, and adapting planning approaches",
+      "incorrect_answers": [
+        "Following a rigid sequential approach",
+        "Avoiding any changes to the project schedule",
+        "Assigning all scheduling responsibilities to the project manager"
+      ]
+    }
+  ],
+  "setCount": 2
+}

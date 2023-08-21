@@ -1,0 +1,311 @@
+{
+  "results": [
+    {
+      "question": "Which process is an action taken to bring rejected items into compliance with product requirements or specifications or other stakeholder expectations?",
+      "answer": "rework",
+      "incorrect": [
+        "process adjustment",
+        "validation",
+        "acceptance decision"
+      ]
+    },
+    {
+      "question": "In project schedule management, which process involves analyzing activity sequences, activity resource estimates, and activity duration estimates to create the project schedule?",
+      "answer": "developing the schedule",
+      "incorrect": [
+        "defining activities",
+        "planning schedule management",
+        "controlling the schedule"
+      ]
+    },
+    {
+      "question": "Which process involves monitoring identified and residual risks, identifying new risks, carrying out risk response plans, and evaluating the effectiveness of risk strategies throughout the life of the project?",
+      "answer": "monitoring risk",
+      "incorrect": [
+        "performing qualitative risk analysis",
+        "planning risk responses",
+        "performing quantitative risk analysis"
+      ]
+    },
+    {
+      "question": "According to the guidelines provided by Practical Communications, Inc., which is the most appropriate medium for giving complex instructions?",
+      "answer": "meeting",
+      "incorrect": [
+        "e-mail",
+        "phone call",
+        "website"
+      ]
+    },
+    {
+      "question": "A drawback of the precedence diagramming method is that it cannot be used unless dummy activities are employed.",
+      "answer": "False",
+      "incorrect": [
+        "True",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "Joe is a project manager in an IT company and has over the years, gained substantial knowledge in his area of work. However, while managing his team, he often loses his temper. In addition, he fails to be an active listener when his team members approach him with work related challenges. In which of the following areas does Joe need to develop his skills in?",
+      "answer": "Human relations skills",
+      "incorrect": [
+        "Standards and regulations",
+        "Project environment knowledge",
+        "Application area knowledge"
+      ]
+    },
+    {
+      "question": "Soles is a footwear company which has recently set up its store in Ambrosia. To manufacture its products, Soles incurs a range of different costs. Which would be an example of an indirect cost?",
+      "answer": "Electricity used to run its factories",
+      "incorrect": [
+        "Salary paid to factory workers",
+        "Cost of machines to produce shoes",
+        "Cost of leather used to manufacture shoes"
+      ]
+    },
+    {
+      "question": "Project integration management must occur just within the context of a particular project.",
+      "answer": "False",
+      "incorrect": [
+        "True",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "Adding more people to a project that is falling behind schedule often causes more setbacks because of the increased complexity of communications.",
+      "answer": "True",
+      "incorrect": [
+        "False",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "Which technique is used for creating a WBS uses branches radiating from a core idea to structure thoughts and ideas instead of writing down tasks in a list or immediately trying to create a structure for tasks?",
+      "answer": "mind mapping",
+      "incorrect": [
+        "top-down",
+        "bottom-up",
+        "analogy"
+      ]
+    },
+    {
+      "question": "A team has 10 communication channels between its various members. Using the formula for calculating the number of communication channels, it can be deduced that the team has _____ members.",
+      "answer": "5",
+      "incorrect": [
+        "2",
+        "3",
+        "10"
+      ]
+    },
+    {
+      "question": "Project managers must take adequate time to identify, understand, and manage relationships with all project stakeholders.",
+      "answer": "True",
+      "incorrect": [
+        "False",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "Which stage of information technology planning outlines business processes that are central to achieving strategic goals and helps determine which ones could most benefit from information technology?",
+      "answer": "business area analysis",
+      "incorrect": [
+        "resource allocation",
+        "information technology strategy planning",
+        "project planning"
+      ]
+    },
+    {
+      "question": "To define activities, the project team should start with reviewing the schedule management plan, scope baseline, enterprise environmental factors, and organizational processes.",
+      "answer": "True",
+      "incorrect": [
+        "False",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "Project managers and their teams must recognize the effects of any project on the interests and needs of the entire system or organization instead of focusing on the immediate concerns of the project.",
+      "answer": "True",
+      "incorrect": [
+        "False",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "Which action involves normalizing acceptance of the project deliverables and during this phase the key project stakeholders, such as the customer and sponsor for the project, inspect and then formally accept the deliverables?",
+      "answer": "Validating scope",
+      "incorrect": [
+        "Creating scope",
+        "Defining scope",
+        "Controlling scope"
+      ]
+    },
+    {
+      "question": "Deliverables are only product-related, such as a piece of hardware or software.",
+      "answer": "False",
+      "incorrect": [
+        "True",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "Which provide a standard format for displaying project schedule information by listing project activities and their corresponding start and finish dates in a calendar format?",
+      "answer": "Gantt charts",
+      "incorrect": [
+        "Arrow diagramming method",
+        "Critical path analysis",
+        "PERT analysis"
+      ]
+    },
+    {
+      "question": "Which process involves numerically estimating the effects of risks on project objectives?",
+      "answer": "performing quantitative risk analysis",
+      "incorrect": [
+        "planning risk responses",
+        "performing qualitative risk analysis",
+        "identifying risks"
+      ]
+    },
+    {
+      "question": "Opponents of a project do not belong to the category of stakeholders.",
+      "answer": "False",
+      "incorrect": [
+        "True",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "Which communication method is most appropriate for assessing the commitment of project stakeholders?",
+      "answer": "meeting",
+      "incorrect": [
+        "wiki",
+        "e-mail",
+        "website"
+      ]
+    },
+    {
+      "question": "Project scope management includes the processes involved in defining and controlling what is or is not included in a project.",
+      "answer": "True",
+      "incorrect": [
+        "False",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "Which process involves generating ideas by comparing specific project practices or product characteristics to those of other projects or products inside or outside the performing organization?",
+      "answer": "benchmarking",
+      "incorrect": [
+        "decomposition",
+        "prototyping",
+        "variance"
+      ]
+    },
+    {
+      "question": "In a project, communicating badly exponentially increases the possibility of making mistakes.",
+      "answer": "True",
+      "incorrect": [
+        "False",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "As a manager, you want to praise a team member, Phil, for doing a good job on a particular project. However, you know he tends to be an introvert. Which communication method would Phil be most comfortable with?",
+      "answer": "Call Phil in for a private meeting to appreciate his work.",
+      "incorrect": [
+        "Announce Phil\u2019s accomplishment on the company Web site.",
+        "Have top management and the other teams in the company award Phil.",
+        "Call a team meeting to praise Phil for his work on the project."
+      ]
+    },
+    {
+      "question": "The items discussed in a(n) _____ include reflections on whether project goals were met, whether the project was successful or not, causes of variances on the project, reasoning behind corrective actions chosen, use of different project management tools and techniques, and personal words of wisdom based on team members\u2019 experiences.",
+      "answer": "lessons-learned report",
+      "incorrect": [
+        "final project report",
+        "audit report",
+        "design document"
+      ]
+    },
+    {
+      "question": "Critical chain scheduling assumes that resources multitask and maximizes multitasking.",
+      "answer": "False",
+      "incorrect": [
+        "True",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "If the cost performance index (CPI) is less than 100 percent, the project is under budget.",
+      "answer": "False",
+      "incorrect": [
+        "True",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "Good Earth, a company manufacturing packaged food products, sets up its stores in Baltonia. However, a year later, the company closes the store down due to high operating costs. In such a scenario, the money spent in paying for the rent of the store in Baltonia would be an example of which costs?",
+      "answer": "sunk",
+      "incorrect": [
+        "intangible",
+        "recurring",
+        "direct"
+      ]
+    },
+    {
+      "question": "Which process in project schedule management involves identifying the specific tasks that the project team members and stakeholders must perform to produce the project deliverables?",
+      "answer": "defining activities",
+      "incorrect": [
+        "estimating activity durations",
+        "sequencing activities",
+        "developing the schedule"
+      ]
+    },
+    {
+      "question": "Which section of the project plan lists the planned dates for completing key deliverables?",
+      "answer": "schedule",
+      "incorrect": [
+        "objectives",
+        "budget",
+        "closing"
+      ]
+    },
+    {
+      "question": "Grey\u2019s Infotech sells customized hardware and software solutions for businesses. The salespeople for Grey\u2019s have a strict dress code when meeting clients. They are required to wear dark business suits, in order to convey the company\u2019s dedication to quality. The meaning conveyed to the clients\u2019 through the salespeople\u2019s clothing is part of the _____ frame of the organization.",
+      "answer": "symbolic",
+      "incorrect": [
+        "structural",
+        "political",
+        "human resources"
+      ]
+    },
+    {
+      "question": "A project\u2019s stakeholders include its customers, users, and suppliers.",
+      "answer": "True",
+      "incorrect": [
+        "False",
+        " ",
+        " "
+      ]
+    },
+    {
+      "question": "DeMarco and Lister\u2019s study on organizations and productivity found direct correlations between productivity and programming language, years of experience, and salary.",
+      "answer": "False",
+      "incorrect": [
+        "True",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "setAttempts": 1
+}

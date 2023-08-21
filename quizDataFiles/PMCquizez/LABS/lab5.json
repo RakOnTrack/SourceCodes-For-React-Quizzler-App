@@ -1,0 +1,185 @@
+{
+  "results": [
+    {
+      "question": "A numeric ranking of a task's importance and appropriateness for leveling is called ________.",
+      "correct_answer": "task priorities",
+      "incorrect_answers": [
+        "load balancing",
+        "random selection",
+        "task deadlines"
+      ]
+    },
+    {
+      "question": "A better approach to scheduling tasks is to use a deadline date rather than a(n) ________.",
+      "correct_answer": "slack",
+      "incorrect_answers": [
+        "priority",
+        "connection",
+        "delaying"
+      ]
+    },
+    {
+      "question": "When you link the tasks in a project schedule, you establish a(n) ________ between the tasks.",
+      "correct_answer": "relationship",
+      "incorrect_answers": [
+        "constraint",
+        "deadline",
+        "0"
+      ]
+    },
+    {
+      "question": "________ is the process of delaying a resource's work on a task to resolve an overallocation.",
+      "correct_answer": "leveling",
+      "incorrect_answers": [
+        "start-to-start",
+        "finish-no-earlier-than",
+        "start-no-later-than"
+      ]
+    },
+    {
+      "question": "Microsoft Project honors constraint dates over task relationships, even if this causes ________.",
+      "correct_answer": "negative slack",
+      "incorrect_answers": [
+        "load balancing",
+        "random selection",
+        "task deadlines"
+      ]
+    },
+    {
+      "question": "Tasks with a priority of ________ are leveled first.",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "1",
+        "100",
+        "500"
+      ]
+    },
+    {
+      "question": "When you enter a deadline date, Microsoft Project alerts you if the task's ________ moves beyond the deadline.",
+      "correct_answer": "completion",
+      "incorrect_answers": [
+        "slack",
+        "priority",
+        "connection"
+      ]
+    },
+    {
+      "question": "A(n) ________ is a value you enter for a task that indicates the latest date by which you want the task to be completed.",
+      "correct_answer": "deadline date",
+      "incorrect_answers": [
+        "constraint date",
+        "resource",
+        "baseline"
+      ]
+    },
+    {
+      "question": "The default task priority value for all tasks is ________.",
+      "correct_answer": "500",
+      "incorrect_answers": [
+        "0",
+        "1",
+        "100"
+      ]
+    },
+    {
+      "question": "Tasks with a priority of ________ are never delayed by leveling.",
+      "correct_answer": "1000",
+      "incorrect_answers": [
+        "0",
+        "1",
+        "500"
+      ]
+    },
+    {
+      "question": "Microsoft Project uses __________ to determine which tasks can be delayed in order to resolve periods of resource overallocation.",
+      "correct_answer": "task priorities",
+      "incorrect_answers": [
+        "load balancing",
+        "random selection",
+        "task deadlines"
+      ]
+    },
+    {
+      "question": "Which of the following is the numeric ranking range for task priority?",
+      "correct_answer": "1 to 100",
+      "incorrect_answers": [
+        "0 to 100",
+        "1 to 500",
+        "0 to 1000"
+      ]
+    },
+    {
+      "question": "Entering a deadline date has no effect on the scheduling of a summary or subtask, except when the task involves which of the following?",
+      "correct_answer": "the critical path",
+      "incorrect_answers": [
+        "slack",
+        "priority",
+        "relationships"
+      ]
+    },
+    {
+      "question": "Which of the following is not a semi\u2010flexible constraint?",
+      "correct_answer": "start no later than",
+      "incorrect_answers": [
+        "start no earlier than",
+        "must start on",
+        "finish no earlier than"
+      ]
+    },
+    {
+      "question": "Depending on options you choose, resource leveling might __________.",
+      "correct_answer": "all of the above",
+      "incorrect_answers": [
+        "delay the start date of a specific resource's assignment",
+        "delay the start date of an entire task",
+        "split up the work on a task"
+      ]
+    },
+    {
+      "question": "Which of the following must be done to remove a deadline from a task?",
+      "correct_answer": "Clear the Deadline field on the Advanced tab of the Task Information dialog box.",
+      "incorrect_answers": [
+        "Delete the deadline indicator from the bar chart portion of the Gantt chart.",
+        "Slide the deadline indicator off of the active portion of the Gantt chart.",
+        "Change the deadline date to 00/00/00."
+      ]
+    },
+    {
+      "question": "Which of the following is not a type of task relationship?",
+      "correct_answer": "start no earlier than finish",
+      "incorrect_answers": [
+        "finish to start",
+        "finish to finish",
+        "start to start"
+      ]
+    },
+    {
+      "question": "A deadline date __________.",
+      "correct_answer": "is a semi\u2010flexible constraint",
+      "incorrect_answers": [
+        "is the due date of the project",
+        "does not constrain a task",
+        "is not indicated on the Gantt chart"
+      ]
+    },
+    {
+      "question": "Which of the following allows the most flexibility in scheduling a task?",
+      "correct_answer": "inflexible constraint",
+      "incorrect_answers": [
+        "semi\u2010flexible constraint",
+        "deadline date",
+        "none of the above"
+      ]
+    },
+    {
+      "question": "By default, Microsoft Project honors which of the following?",
+      "correct_answer": "constraint dates over relationships",
+      "incorrect_answers": [
+        "deadline dates over relationships",
+        "relationships over constraint dates",
+        "negative slack over relationships"
+      ]
+    }
+  ],
+  "setCount": 1
+}

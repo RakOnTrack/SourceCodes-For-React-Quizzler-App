@@ -1,0 +1,165 @@
+{
+  "results": [
+    {
+      "question": "Match the term 'critical path' to its description:",
+      "correct_answer": "e. the series of tasks whose scheduling directly affects the project\u2019s finish date",
+      "incorrect_answers": [
+        "a. the amount of time a task can be delayed before it will delay another task",
+        "b. a restriction that controls the start or finish date of a task",
+        "c. the condition of a resource when the total work of its task assignments is exactly equal to that resource\u2019s work capacity"
+      ]
+    },
+    {
+      "question": "Match the term 'free slack' to its description:",
+      "correct_answer": "d. the amount of time a task can be delayed without delaying the project completion date",
+      "incorrect_answers": [
+        "a. the amount of time a task can be delayed before it will delay another task",
+        "b. a restriction that controls the start or finish date of a task",
+        "c. the condition of a resource when the total work of its task assignments is exactly equal to that resource\u2019s work capacity"
+      ]
+    },
+    {
+      "question": "Match the term 'split' to its description:",
+      "correct_answer": "g. an interruption in a task",
+      "incorrect_answers": [
+        "a. the amount of time a task can be delayed before it will delay another task",
+        "b. a restriction that controls the start or finish date of a task",
+        "c. the condition of a resource when the total work of its task assignments is exactly equal to that resource\u2019s work capacity"
+      ]
+    },
+    {
+      "question": "Match the term 'underallocated' to its description:",
+      "correct_answer": "h. the condition of a resource when the work assigned to a resource is less than the resource\u2019s maximum capacity",
+      "incorrect_answers": [
+        "a. the amount of time a task can be delayed before it will delay another task",
+        "b. a restriction that controls the start or finish date of a task",
+        "c. the condition of a resource when the total work of its task assignments is exactly equal to that resource\u2019s work capacity"
+      ]
+    },
+    {
+      "question": "Match the term 'recurring task' to its description:",
+      "correct_answer": "i. a task that is repeated at specific intervals",
+      "incorrect_answers": [
+        "a. the amount of time a task can be delayed before it will delay another task",
+        "b. a restriction that controls the start or finish date of a task",
+        "c. the condition of a resource when the total work of its task assignments is exactly equal to that resource\u2019s work capacity"
+      ]
+    },
+    {
+      "question": "Match the term 'fixed units' to its description:",
+      "correct_answer": "j. a task type in which the units value does not automatically change",
+      "incorrect_answers": [
+        "a. the amount of time a task can be delayed before it will delay another task",
+        "b. a restriction that controls the start or finish date of a task",
+        "c. the condition of a resource when the total work of its task assignments is exactly equal to that resource\u2019s work capacity"
+      ]
+    },
+    {
+      "question": "Match the term 'constraint' to its description:",
+      "correct_answer": "f. a restriction that forces a task to begin or end on a certain date, preventing the rescheduling of a task",
+      "incorrect_answers": [
+        "a. the amount of time a task can be delayed before it will delay another task",
+        "b. a restriction that controls the start or finish date of a task",
+        "c. the condition of a resource when the total work of its task assignments is exactly equal to that resource\u2019s work capacity"
+      ]
+    },
+    {
+      "question": "Match the term 'fully allocated' to its description:",
+      "correct_answer": "c. the condition of a resource when the total work of its task assignments is exactly equal to that resource\u2019s work capacity",
+      "incorrect_answers": [
+        "a. the amount of time a task can be delayed before it will delay another task",
+        "b. a restriction that controls the start or finish date of a task",
+        "h. the condition of a resource when the work assigned to a resource is less than the resource\u2019s maximum capacity"
+      ]
+    },
+    {
+      "question": "Match the term 'inflexible constraint' to its description:",
+      "correct_answer": "b. a restriction that controls the start or finish date of a task",
+      "incorrect_answers": [
+        "a. the amount of time a task can be delayed before it will delay another task",
+        "f. a restriction that forces a task to begin or end on a certain date, preventing the rescheduling of a task",
+        "c. the condition of a resource when the total work of its task assignments is exactly equal to that resource\u2019s work capacity"
+      ]
+    },
+    {
+      "question": "Match the term 'total slack' to its description:",
+      "correct_answer": "a. the amount of time a task can be delayed before it will delay another task",
+      "incorrect_answers": [
+        "i. a task that is repeated at specific intervals",
+        "b. a restriction that controls the start or finish date of a task",
+        "c. the condition of a resource when the total work of its task assignments is exactly equal to that resource\u2019s work capacity"
+      ]
+    },
+    {
+      "question": "It is always best to enter a start or finish date for every task.",
+      "correct_answer": "F",
+      "incorrect_answers": [
+        "T"
+      ]
+    },
+    {
+      "question": "By default, critical path tasks are shown in red on the Detail Gantt view.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "It is never acceptable to have an overallocated resource.",
+      "correct_answer": "F",
+      "incorrect_answers": [
+        "T"
+      ]
+    },
+    {
+      "question": "It is not possible to split a task over a weekend.",
+      "correct_answer": "F",
+      "incorrect_answers": [
+        "T"
+      ]
+    },
+    {
+      "question": "Effort-driven scheduling and task types both affect all resources in the same way.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "You cannot change the task type for a summary task.",
+      "correct_answer": "F",
+      "incorrect_answers": [
+        "T"
+      ]
+    },
+    {
+      "question": "You can use a task calendar to schedule a task that will occur during working time that is not available on the project calendar.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "It is acceptable to have a resource group named Unassigned.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "It is not possible to set a specific time of day for a recurring task.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "You can split a task only three times.",
+      "correct_answer": "F",
+      "incorrect_answers": [
+        "T"
+      ]
+    }
+  ],
+  "setCount": 1
+}

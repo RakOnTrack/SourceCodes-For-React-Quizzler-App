@@ -1,0 +1,21 @@
+make me a quiz with these questions in this format:
+
+
+give me those questions only in this json format please:
+
+{
+"results": [
+ "question": "",
+      "correct_answer": "",
+      "incorrect_answers": [  ]
+}, 
+
+]
+
+}
+
+
+
+
+questions should have these questions about IT project management:
+

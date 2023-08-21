@@ -1,0 +1,365 @@
+{
+  "results": [
+    {
+      "question": "What is the primary goal of project management?",
+      "correct_answer": "To achieve project objectives within the given constraints",
+      "incorrect_answers": [
+        "To maximize profits",
+        "To complete the project as quickly as possible",
+        "To minimize resource utilization"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a project constraint?",
+      "correct_answer": "Team expertise",
+      "incorrect_answers": [
+        "Time",
+        "Scope",
+        "Cost"
+      ]
+    },
+    {
+      "question": "What is the critical path in a project?",
+      "correct_answer": "The longest sequence of dependent activities that determines the shortest possible project duration",
+      "incorrect_answers": [
+        "The most important tasks in the project",
+        "The path with the least number of activities",
+        "The path that is most likely to cause delays"
+      ]
+    },
+    {
+      "question": "What does RAID stand for in project management?",
+      "correct_answer": "Risks, Assumptions, Issues, and Dependencies",
+      "incorrect_answers": [
+        "Resources, Activities, Individuals, and Deadlines",
+        "Roles, Assignments, Inputs, and Deliverables",
+        "Requirements, Agreements, Inclusions, and Deliveries"
+      ]
+    },
+    {
+      "question": "What does the term 'WBS' stand for?",
+      "correct_answer": "Work Breakdown Structure",
+      "incorrect_answers": [
+        "Workflow Balance System",
+        "Work Budget Schedule",
+        "Workforce Benefit System"
+      ]
+    },
+    {
+      "question": "What is 'scope creep' in project management?",
+      "correct_answer": "The gradual expansion of project scope beyond its original goals",
+      "incorrect_answers": [
+        "The reduction of project scope due to budget constraints",
+        "The completion of a project ahead of schedule",
+        "The process of validating project deliverables"
+      ]
+    },
+    {
+      "question": "What is a Gantt chart used for in project management?",
+      "correct_answer": "Visualizing project schedules and dependencies",
+      "incorrect_answers": [
+        "Managing project risks",
+        "Tracking team member performance",
+        "Creating project budgets"
+      ]
+    },
+    {
+      "question": "What is the purpose of a stakeholder analysis in project management?",
+      "correct_answer": "Identifying individuals or groups affected by the project and managing their expectations",
+      "incorrect_answers": [
+        "Analyzing project risks",
+        "Determining project objectives",
+        "Evaluating project progress"
+      ]
+    },
+    {
+      "question": "What is 'change control' in project management?",
+      "correct_answer": "The process of managing and approving changes to the project scope",
+      "incorrect_answers": [
+        "The practice of controlling project team members' behavior",
+        "The enforcement of project deadlines",
+        "The process of documenting project risks"
+      ]
+    },
+    {
+      "question": "Which of the following is an agile project management framework?",
+      "correct_answer": "Scrum",
+      "incorrect_answers": [
+        "Waterfall",
+        "Six Sigma",
+        "PRINCE2"
+      ]
+    },
+    {
+      "question": "What is a 'RACI matrix' used for in project management?",
+      "correct_answer": "Defining roles and responsibilities for project tasks",
+      "incorrect_answers": [
+        "Estimating project costs",
+        "Tracking project milestones",
+        "Managing project risks"
+      ]
+    },
+    {
+      "question": "What does the term 'SLA' stand for in IT service management?",
+      "correct_answer": "Service Level Agreement",
+      "incorrect_answers": [
+        "System Lifecycle Assessment",
+        "Software License Agreement",
+        "Security Logging and Auditing"
+      ]
+    },
+    {
+      "question": "What is the purpose of a 'change advisory board' (CAB) in IT service management?",
+      "correct_answer": "Reviewing and approving changes to IT services",
+      "incorrect_answers": [
+        "Providing technical support to end-users",
+        "Monitoring service performance",
+        "Managing software licenses"
+      ]
+    },
+    {
+      "question": "What does the term 'SLM' stand for in IT service management?",
+      "correct_answer": "Service Level Management",
+      "incorrect_answers": [
+        "Software License Monitoring",
+        "Security Log Management",
+        "System Lifecycle Monitoring"
+      ]
+    },
+    {
+      "question": "What is the purpose of an 'incident management' process in IT service management?",
+      "correct_answer": "Restoring normal service operations as quickly as possible",
+      "incorrect_answers": [
+        "Managing changes to IT services",
+        "Monitoring service performance",
+        "Maintaining hardware and software inventory"
+      ]
+    },
+    {
+      "question": "What does the term 'CMDB' stand for in IT service management?",
+      "correct_answer": "Configuration Management Database",
+      "incorrect_answers": [
+        "Change Management Database",
+        "Communication and Media Database",
+        "Centralized Monitoring and Debugging"
+      ]
+    },
+    {
+      "question": "What is the purpose of 'root cause analysis' in IT service management?",
+      "correct_answer": "Identifying the underlying cause of incidents or problems",
+      "incorrect_answers": [
+        "Implementing security measures",
+        "Creating service level agreements",
+        "Monitoring system performance"
+      ]
+    },
+    {
+      "question": "What does the term 'ITIL' stand for in IT service management?",
+      "correct_answer": "Information Technology Infrastructure Library",
+      "incorrect_answers": [
+        "International Telecommunications and Internet Logistics",
+        "Integrated Testing and Implementation Lifecycle",
+        "Institutional Training and Innovation Leadership"
+      ]
+    },
+    {
+      "question": "What is the purpose of a 'change management' process in IT service management?",
+      "correct_answer": "Managing changes to IT services in a controlled and systematic manner",
+      "incorrect_answers": [
+        "Restoring normal service operations as quickly as possible",
+        "Monitoring service performance",
+        "Maintaining hardware and software inventory"
+      ]
+    },
+    {
+      "question": "What is the systems view of project management?",
+      "correct_answer": "A project management approach that considers projects as a part of a larger system",
+      "incorrect_answers": [
+        "A project management approach that focuses only on technical aspects",
+        "A project management approach that emphasizes stakeholder management",
+        "A project management approach that prioritizes cost control"
+      ]
+    },
+    {
+      "question": "How does the systems view apply to information technology (IT) projects?",
+      "correct_answer": "It recognizes that IT projects are interconnected with other systems within an organization",
+      "incorrect_answers": [
+        "It emphasizes the technical aspects of IT projects",
+        "It focuses on stakeholder management in IT projects",
+        "It considers IT projects as independent entities"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT one of the four frames used to understand organizations?",
+      "correct_answer": "Technical frame",
+      "incorrect_answers": [
+        "Structural frame",
+        "Human resources frame",
+        "Political frame"
+      ]
+    },
+    {
+      "question": "What does the organizational structure refer to?",
+      "correct_answer": "The formal and informal relationships among people in an organization",
+      "incorrect_answers": [
+        "The physical layout of an organization's office spaces",
+        "The financial hierarchy within an organization",
+        "The technological infrastructure of an organization"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a component of organizational culture?",
+      "correct_answer": "Financial resources",
+      "incorrect_answers": [
+        "Values and beliefs",
+        "Norms and behavior patterns",
+        "Symbols and rituals"
+      ]
+    },
+    {
+      "question": "Why is stakeholder management critical for a project's success?",
+      "correct_answer": "Stakeholders can influence the project's outcome and have specific needs and expectations",
+      "incorrect_answers": [
+        "Stakeholders provide financial resources for the project",
+        "Stakeholders are responsible for project scheduling",
+        "Stakeholders ensure project quality"
+      ]
+    },
+    {
+      "question": "What is top management commitment in project management?",
+      "correct_answer": "Active support and involvement of top-level executives in the project",
+      "incorrect_answers": [
+        "The financial investment made by top-level executives in the project",
+        "The decision-making authority given to project managers",
+        "The level of priority given to the project by top-level executives"
+      ]
+    },
+    {
+      "question": "What is the key difference between a project life cycle and a product life cycle?",
+      "correct_answer": "A project life cycle represents the stages a project goes through, while a product life cycle represents the stages a product goes through",
+      "incorrect_answers": [
+        "A project life cycle focuses on planning, while a product life cycle focuses on execution",
+        "A project life cycle is linear, while a product life cycle is iterative",
+        "A project life cycle is shorter than a product life cycle"
+      ]
+    },
+    {
+      "question": "Which of the following best describes the diverse nature of IT projects?",
+      "correct_answer": "IT projects vary in terms of technologies, team sizes, and project objectives",
+      "incorrect_answers": [
+        "IT projects have a consistent set of requirements and deliverables",
+        "IT projects are similar to construction projects in terms of scope and complexity",
+        "IT projects are primarily focused on hardware development"
+      ]
+    },
+    {
+      "question": "What is one of the recent trends affecting IT project management?",
+      "correct_answer": "Globalization",
+      "incorrect_answers": [
+        "Waterfall project management",
+        "In-house development",
+        "Traditional organizational structures"
+      ]
+    },
+    {
+      "question": "In the systems view of project management, projects are considered as part of a:",
+      "correct_answer": "Larger system",
+      "incorrect_answers": [
+        "Independent entity",
+        "Hierarchical structure",
+        "Technical process"
+      ]
+    },
+    {
+      "question": "Which frame of understanding organizations focuses on the distribution of power and resources?",
+      "correct_answer": "Political frame",
+      "incorrect_answers": [
+        "Structural frame",
+        "Human resources frame",
+        "Symbolic frame"
+      ]
+    },
+    {
+      "question": "Which organizational structure is characterized by clear lines of authority and a hierarchical approach?",
+      "correct_answer": "Functional structure",
+      "incorrect_answers": [
+        "Matrix structure",
+        "Projectized structure",
+        "Network structure"
+      ]
+    },
+    {
+      "question": "What is a key component of organizational culture?",
+      "correct_answer": "Values and beliefs",
+      "incorrect_answers": [
+        "Financial resources",
+        "Physical infrastructure",
+        "Technical skills"
+      ]
+    },
+    {
+      "question": "Why is stakeholder management important for project success?",
+      "correct_answer": "Stakeholders can influence project outcomes and provide necessary resources",
+      "incorrect_answers": [
+        "Stakeholders determine project budgets and timelines",
+        "Stakeholders ensure compliance with project requirements",
+        "Stakeholders monitor project risks and issues"
+      ]
+    },
+    {
+      "question": "What does top management commitment involve?",
+      "correct_answer": "Active support and involvement in project activities",
+      "incorrect_answers": [
+        "Financial investment in the project",
+        "Delegation of decision-making authority",
+        "Setting project priorities"
+      ]
+    },
+    {
+      "question": "How does a project life cycle differ from a product life cycle?",
+      "correct_answer": "A project life cycle represents the stages a project goes through, while a product life cycle represents the stages a product goes through",
+      "incorrect_answers": [
+        "A project life cycle focuses on execution, while a product life cycle focuses on planning",
+        "A project life cycle is iterative, while a product life cycle is linear",
+        "A project life cycle is longer than a product life cycle"
+      ]
+    },
+    {
+      "question": "What makes IT projects diverse in nature?",
+      "correct_answer": "Variations in technologies, team sizes, and project objectives",
+      "incorrect_answers": [
+        "Consistent requirements and deliverables",
+        "Similarities to construction projects",
+        "Hardware-focused development"
+      ]
+    },
+    {
+      "question": "What is the primary focus of the systems view of project management?",
+      "correct_answer": "Considering projects as part of a larger system",
+      "incorrect_answers": [
+        "Managing technical aspects of projects",
+        "Emphasizing stakeholder management",
+        "Controlling project costs"
+      ]
+    },
+    {
+      "question": "Which frame of understanding organizations focuses on the human aspects, such as skills and relationships?",
+      "correct_answer": "Human resources frame",
+      "incorrect_answers": [
+        "Structural frame",
+        "Political frame",
+        "Symbolic frame"
+      ]
+    },
+    {
+      "question": "Which organizational structure emphasizes project teams working across functional departments?",
+      "correct_answer": "Matrix structure",
+      "incorrect_answers": [
+        "Functional structure",
+        "Projectized structure",
+        "Network structure"
+      ]
+    }
+  ],
+  "setCount": 3
+}

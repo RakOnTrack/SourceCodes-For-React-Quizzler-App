@@ -1,0 +1,365 @@
+{
+  "results": [
+    {
+      "question": "What is the primary purpose of cost estimation in project management?",
+      "correct_answer": "To determine the budget required for the project",
+      "incorrect_answers": [
+        "To track the actual costs incurred during the project",
+        "To forecast the project schedule",
+        "To identify potential risks and issues"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT an example of a direct cost in project management?",
+      "correct_answer": "Administrative overhead",
+      "incorrect_answers": [
+        "Labor costs",
+        "Materials costs",
+        "Equipment costs"
+      ]
+    },
+    {
+      "question": "What does the term 'cost baseline' represent in project management?",
+      "correct_answer": "The approved budget for the project",
+      "incorrect_answers": [
+        "The initial project cost estimate",
+        "The actual costs incurred during the project",
+        "The projected costs for future project phases"
+      ]
+    },
+    {
+      "question": "What is the formula for calculating Return on Investment (ROI)?",
+      "correct_answer": "[(Net Profit / Cost) x 100]",
+      "incorrect_answers": [
+        "[(Revenue - Cost) x 100]",
+        "[(Net Profit / Revenue) x 100]",
+        "[(Cost / Revenue) x 100]"
+      ]
+    },
+    {
+      "question": "Which cost estimation technique involves comparing the project to similar projects completed in the past?",
+      "correct_answer": "Analogous estimating",
+      "incorrect_answers": [
+        "Parametric estimating",
+        "Bottom-up estimating",
+        "Three-point estimating"
+      ]
+    },
+    {
+      "question": "In project cost management, what does the term 'earned value' represent?",
+      "correct_answer": "The value of the work actually performed",
+      "incorrect_answers": [
+        "The estimated value of the project",
+        "The value of completed milestones",
+        "The projected cost of future work"
+      ]
+    },
+    {
+      "question": "What is the purpose of a cost management plan in project management?",
+      "correct_answer": "To define how costs will be planned, structured, and controlled",
+      "incorrect_answers": [
+        "To identify and categorize project costs",
+        "To track and monitor project costs",
+        "To estimate the project budget"
+      ]
+    },
+    {
+      "question": "Which of the following is an example of an indirect cost in project management?",
+      "correct_answer": "Utilities expenses",
+      "incorrect_answers": [
+        "Direct labor costs",
+        "Materials costs",
+        "Equipment costs"
+      ]
+    },
+    {
+      "question": "What is the primary purpose of cost control in project management?",
+      "correct_answer": "To ensure that project costs are managed and kept within the approved budget",
+      "incorrect_answers": [
+        "To track the actual costs incurred during the project",
+        "To estimate the project budget",
+        "To identify potential risks and issues"
+      ]
+    },
+    {
+      "question": "What is the purpose of a cost performance baseline in project management?",
+      "correct_answer": "To measure and compare actual project performance against the planned budget",
+      "incorrect_answers": [
+        "To estimate the project budget",
+        "To identify potential risks and issues",
+        "To track the actual costs incurred during the project"
+      ]
+    },
+    {
+      "question": "What is the importance of project cost management in achieving project success?",
+      "correct_answer": "It helps in managing project resources effectively and achieving project objectives within the allocated budget.",
+      "incorrect_answers": [
+        "It is a bureaucratic process that adds unnecessary complexity to the project.",
+        "Project cost management is only important for large-scale projects.",
+        "Project cost management has no direct impact on project success."
+      ]
+    },
+    {
+      "question": "Which of the following best describes project cost management principles?",
+      "correct_answer": "Establishing a baseline for project costs and monitoring deviations from the baseline.",
+      "incorrect_answers": [
+        "Minimizing the overall project cost by cutting corners.",
+        "Maximizing the project budget to ensure high-quality deliverables.",
+        "Allocating a fixed budget for all project activities without any flexibility."
+      ]
+    },
+    {
+      "question": "What is the first step in the process of planning cost management?",
+      "correct_answer": "Defining how costs will be estimated, budgeted, managed, and controlled throughout the project.",
+      "incorrect_answers": [
+        "Determining the overall project budget.",
+        "Identifying the project stakeholders.",
+        "Creating a work breakdown structure (WBS)."
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a type of cost estimate used in project cost management?",
+      "correct_answer": "Projective estimate",
+      "incorrect_answers": [
+        "Rough order of magnitude (ROM) estimate",
+        "Budget estimate",
+        "Definitive estimate"
+      ]
+    },
+    {
+      "question": "How can project cost estimates be prepared?",
+      "correct_answer": "By using historical data, expert judgment, and parametric estimation techniques.",
+      "incorrect_answers": [
+        "By randomly guessing the cost figures.",
+        "By relying solely on the project manager's intuition.",
+        "By copying cost estimates from similar projects without any analysis."
+      ]
+    },
+    {
+      "question": "In an IT project, what is the process of determining a budget?",
+      "correct_answer": "Aggregating cost estimates for all project activities and allocating the total amount to each activity.",
+      "incorrect_answers": [
+        "Allocating an equal budget for all project activities.",
+        "Determining the budget solely based on the project schedule.",
+        "Obtaining a fixed budget from the project sponsor."
+      ]
+    },
+    {
+      "question": "What is the purpose of earned value management (EVM) in cost control?",
+      "correct_answer": "To compare the actual project performance against the planned performance and identify deviations.",
+      "incorrect_answers": [
+        "To inflate the project costs to ensure a higher profit margin.",
+        "To track the project schedule and ensure timely completion.",
+        "To calculate the return on investment (ROI) for the project."
+      ]
+    },
+    {
+      "question": "How can project management software assist in project cost management?",
+      "correct_answer": "By providing tools for estimating costs, tracking expenses, and generating cost reports.",
+      "incorrect_answers": [
+        "By automating all project cost management processes and eliminating the need for human intervention.",
+        "By providing ready-made project cost templates without any customization options.",
+        "By suggesting cost-saving measures to the project team."
+      ]
+    },
+    {
+      "question": "What are some considerations for project cost management in agile/adaptive environments?",
+      "correct_answer": "Emphasizing incremental cost estimation and frequent reassessment of project budget.",
+      "incorrect_answers": [
+        "Following a traditional cost management approach without any modifications.",
+        "Relying on fixed-price contracts to ensure cost control.",
+        "Ignoring cost management altogether in agile projects."
+      ]
+    },
+    {
+      "question": "Why is project portfolio management (PPM) useful in cost control?",
+      "correct_answer": "It helps in prioritizing projects, optimizing resource allocation, and ensuring strategic alignment.",
+      "incorrect_answers": [
+        "PPM is not relevant to cost control.",
+        "PPM focuses only on financial aspects and neglects project deliverables.",
+        "PPM is only applicable to large organizations with multiple projects."
+      ]
+    },
+    {
+      "question": "What is the primary objective of project cost management?",
+      "correct_answer": "To complete the project within the approved budget.",
+      "incorrect_answers": [
+        "To maximize the project budget to achieve the highest quality.",
+        "To minimize the overall project cost by any means.",
+        "To ensure cost control without considering project objectives."
+      ]
+    },
+    {
+      "question": "How does project cost management contribute to project success?",
+      "correct_answer": "By ensuring effective utilization of resources and preventing cost overruns.",
+      "incorrect_answers": [
+        "Project cost management has no direct impact on project success.",
+        "By allocating unlimited budget to all project activities.",
+        "By minimizing the involvement of stakeholders in cost-related decisions."
+      ]
+    },
+    {
+      "question": "Which of the following is a cost estimate prepared during the early stages of a project?",
+      "correct_answer": "Rough order of magnitude (ROM) estimate",
+      "incorrect_answers": [
+        "Definitive estimate",
+        "Parametric estimate",
+        "Analogous estimate"
+      ]
+    },
+    {
+      "question": "What is the role of the project manager in cost estimation?",
+      "correct_answer": "To coordinate with the project team and experts to develop accurate cost estimates.",
+      "incorrect_answers": [
+        "To arbitrarily decide the cost figures based on personal preferences.",
+        "To delegate cost estimation to the project team without any involvement.",
+        "To rely solely on historical cost data and ignore expert opinions."
+      ]
+    },
+    {
+      "question": "How can cost variances be calculated in earned value management (EVM)?",
+      "correct_answer": "By subtracting the earned value (EV) from the actual cost (AC).",
+      "incorrect_answers": [
+        "By subtracting the planned value (PV) from the actual cost (AC).",
+        "By subtracting the planned value (PV) from the earned value (EV).",
+        "By dividing the earned value (EV) by the planned value (PV)."
+      ]
+    },
+    {
+      "question": "What is the purpose of a cost management plan?",
+      "correct_answer": "To document how the project costs will be planned, estimated, managed, and controlled.",
+      "incorrect_answers": [
+        "To determine the maximum budget available for the project.",
+        "To identify potential cost risks and develop contingency plans.",
+        "To allocate the project budget among different project activities."
+      ]
+    },
+    {
+      "question": "Which cost estimate provides the most accurate cost figures?",
+      "correct_answer": "Definitive estimate",
+      "incorrect_answers": [
+        "Parametric estimate",
+        "Analogous estimate",
+        "Bottom-up estimate"
+      ]
+    },
+    {
+      "question": "What is the purpose of a cost baseline?",
+      "correct_answer": "To track and compare the actual project costs against the planned costs.",
+      "incorrect_answers": [
+        "To establish a fixed budget for the project.",
+        "To calculate the overall project return on investment (ROI).",
+        "To provide a breakdown of costs for each project activity."
+      ]
+    },
+    {
+      "question": "What is the key benefit of using project management software for cost management?",
+      "correct_answer": "Automation of calculations, generation of cost reports, and improved accuracy.",
+      "incorrect_answers": [
+        "Project management software has no specific benefits for cost management.",
+        "Project management software reduces the need for human resources in cost management.",
+        "Project management software increases the project budget significantly."
+      ]
+    },
+    {
+      "question": "How does cost control differ from cost management?",
+      "correct_answer": "Cost control focuses on monitoring and controlling project costs, while cost management includes planning, estimating, and budgeting as well.",
+      "incorrect_answers": [
+        "Cost control and cost management are synonymous and have the same meaning.",
+        "Cost control is a subset of cost management and focuses only on reducing costs.",
+        "Cost management is a subset of cost control and focuses only on budgeting."
+      ]
+    },
+    {
+      "question": "What is the main purpose of a cost estimate?",
+      "correct_answer": "To determine the approximate project cost before committing to the project.",
+      "incorrect_answers": [
+        "To provide an accurate breakdown of costs for each project activity.",
+        "To establish a fixed budget for the project.",
+        "To track and compare the actual project costs against the planned costs."
+      ]
+    },
+    {
+      "question": "How can stakeholders be involved in project cost management?",
+      "correct_answer": "By seeking their input during cost estimation, monitoring their expectations, and involving them in cost-related decisions.",
+      "incorrect_answers": [
+        "By excluding stakeholders from cost-related decisions to maintain control.",
+        "By sharing limited cost information with stakeholders to avoid conflicts.",
+        "By relying solely on stakeholder feedback without any analysis."
+      ]
+    },
+    {
+      "question": "What is the purpose of a cost performance baseline?",
+      "correct_answer": "To compare the actual project performance against the planned performance in terms of cost.",
+      "incorrect_answers": [
+        "To establish a fixed budget for the project.",
+        "To calculate the overall project return on investment (ROI).",
+        "To provide a breakdown of costs for each project activity."
+      ]
+    },
+    {
+      "question": "How does agile cost management differ from traditional cost management?",
+      "correct_answer": "Agile cost management emphasizes continuous monitoring, reassessment, and adaptation of project costs.",
+      "incorrect_answers": [
+        "Agile cost management follows a fixed budget and does not allow any modifications.",
+        "Traditional cost management relies solely on expert judgment and historical cost data.",
+        "Traditional cost management is only applicable to small-scale projects."
+      ]
+    },
+    {
+      "question": "What is the primary goal of project cost estimation?",
+      "correct_answer": "To provide a realistic approximation of the project's financial requirements.",
+      "incorrect_answers": [
+        "To provide an accurate breakdown of costs for each project activity.",
+        "To allocate the maximum available budget to all project activities.",
+        "To track and compare the actual project costs against the planned costs."
+      ]
+    },
+    {
+      "question": "What is the role of contingency reserves in project cost management?",
+      "correct_answer": "To account for potential risks and uncertainties by allocating additional funds.",
+      "incorrect_answers": [
+        "To allocate funds for routine project expenses.",
+        "To reduce the overall project budget and minimize costs.",
+        "To provide bonuses for project team members upon project completion."
+      ]
+    },
+    {
+      "question": "What is the purpose of cost variance analysis in project cost management?",
+      "correct_answer": "To determine the differences between the planned costs and the actual costs.",
+      "incorrect_answers": [
+        "To inflate the project costs and ensure a higher profit margin.",
+        "To calculate the overall return on investment (ROI) for the project.",
+        "To track the project schedule and ensure timely completion."
+      ]
+    },
+    {
+      "question": "How can historical data be used in project cost management?",
+      "correct_answer": "To provide benchmarks and references for cost estimation and control.",
+      "incorrect_answers": [
+        "Historical data is not relevant to project cost management.",
+        "To establish a fixed budget for the project.",
+        "To track and compare the actual project costs against the planned costs."
+      ]
+    },
+    {
+      "question": "What is the purpose of a cost change control system?",
+      "correct_answer": "To document, review, and approve or reject changes to the project cost baseline.",
+      "incorrect_answers": [
+        "To automatically adjust the project budget based on cost variances.",
+        "To eliminate the need for change management in cost-related decisions.",
+        "To assign blame for cost overruns and delays in the project."
+      ]
+    },
+    {
+      "question": "How can earned value management (EVM) assist in project cost control?",
+      "correct_answer": "By providing metrics to assess project performance, forecast future costs, and identify cost overruns or underruns.",
+      "incorrect_answers": [
+        "EVM is not useful in project cost control.",
+        "EVM only focuses on tracking project schedule and ignoring cost aspects.",
+        "EVM calculates the overall project return on investment (ROI)."
+      ]
+    }
+  ],
+  "setCount": 2
+}

@@ -1,0 +1,185 @@
+{
+  "results": [
+    {
+      "question": "________ is a quick way to view only the task or resource information you choose.",
+      "correct_answer": "Filtering",
+      "incorrect_answers": [
+        "Sorting",
+        "Grouping",
+        "AutoFiltering"
+      ]
+    },
+    {
+      "question": "In the Sort dialog box, you can utilize up to ________ nested levels of sort criteria.",
+      "correct_answer": "Three",
+      "incorrect_answers": [
+        "One",
+        "Two",
+        "Four"
+      ]
+    },
+    {
+      "question": "When you use grouping, the ________ data rows are set off by a colored background.",
+      "correct_answer": "Summary",
+      "incorrect_answers": [
+        "Filtered",
+        "Sorted",
+        "AutoFiltered"
+      ]
+    },
+    {
+      "question": "When AutoFilter is turned on, small ________ are visible next to the column headings.",
+      "correct_answer": "Arrows",
+      "incorrect_answers": [
+        "Checkmarks",
+        "Dots",
+        "Lines"
+      ]
+    },
+    {
+      "question": "A way to reorder task or resource information in a table and to display summary values according to various criteria you can choose is called a(n) __________.",
+      "correct_answer": "Grouping",
+      "incorrect_answers": [
+        "Sorting",
+        "Filtering",
+        "AutoFiltering"
+      ]
+    },
+    {
+      "question": "The _________ dialog box shows you all of the predefined filters that are available to you for tasks or resources.",
+      "correct_answer": "Filter",
+      "incorrect_answers": [
+        "Sort",
+        "Group",
+        "Table"
+      ]
+    },
+    {
+      "question": "A(n) _________ is a way of ordering task or resource information in a view by the criteria you specify.",
+      "correct_answer": "Sort",
+      "incorrect_answers": [
+        "Group",
+        "Filter",
+        "AutoFilter"
+      ]
+    },
+    {
+      "question": "When you apply a filter, you may see gaps in the order of the ________.",
+      "correct_answer": "Data",
+      "incorrect_answers": [
+        "Tasks",
+        "Resources",
+        "Summary"
+      ]
+    },
+    {
+      "question": "When you sort data in your project, the sort applies to the active _________, no matter which table is displayed.",
+      "correct_answer": "View",
+      "incorrect_answers": [
+        "Table",
+        "Chart",
+        "Diagram"
+      ]
+    },
+    {
+      "question": "A tool that enables you to see or highlight in a table only the task or resource information that meets criteria you choose is a(n) __________.",
+      "correct_answer": "Filter",
+      "incorrect_answers": [
+        "Sort",
+        "Group",
+        "AutoFilter"
+      ]
+    },
+    {
+      "question": "Which of the following is the simplest way to reorganize data in Microsoft Project?",
+      "correct_answer": "Filtering",
+      "incorrect_answers": [
+        "Sorting",
+        "Grouping",
+        "AutoFiltering"
+      ]
+    },
+    {
+      "question": "The __________ function lets you reverse actions you have performed in Microsoft Project.",
+      "correct_answer": "Multiple Level Undo",
+      "incorrect_answers": [
+        "Task Drivers",
+        "Reverse Filtering",
+        "Ungrouping"
+      ]
+    },
+    {
+      "question": "Which of the following is the one instance in which the actual data of your project is changed by sorting?",
+      "correct_answer": "The Permanently renumber resources check box is selected.",
+      "incorrect_answers": [
+        "The Multiple Level Undo function is disabled.",
+        "The project is saved before the sorting is reversed.",
+        "All of the above."
+      ]
+    },
+    {
+      "question": "When you apply a group to your project schedule, the data in the summary rows cannot be changed directly because of which of the following?",
+      "correct_answer": "It is derived from subordinate data.",
+      "incorrect_answers": [
+        "It will cause the grouping to become permanent.",
+        "It will alter the data in your project schedule.",
+        "It will cause an error in the grouping function."
+      ]
+    },
+    {
+      "question": "When AutoFilter is on, clicking on the down arrow next to the column heading does which of the following?",
+      "correct_answer": "Allows you to select criteria to apply to the filter",
+      "incorrect_answers": [
+        "Sorts the data in descending order",
+        "Turns the AutoFilter off",
+        "Automatically adjusts the column width"
+      ]
+    },
+    {
+      "question": "How many times can the Multiple Level Undo function be used?",
+      "correct_answer": "Up to 99 times, or until the original data is restored",
+      "incorrect_answers": [
+        "As many times as desired",
+        "Up to 35 consecutive times",
+        "Up to 50 consecutive times"
+      ]
+    },
+    {
+      "question": "If a view has a filter applied to it, the name of the filter will be displayed in the Filter box on the _________ ribbon.",
+      "correct_answer": "Data",
+      "incorrect_answers": [
+        "Format",
+        "View",
+        "Resource Management"
+      ]
+    },
+    {
+      "question": "There is no visual indicator that a task or resource view has been sorted other than which of the following?",
+      "correct_answer": "The order in which the rows of data appear",
+      "incorrect_answers": [
+        "The shaded summary rows",
+        "The small s at the top of each data column",
+        "There is no visual indicator to show a view has been sorted."
+      ]
+    },
+    {
+      "question": "Grouping might be helpful if you are trying to see which of the following?",
+      "correct_answer": "The critical path tasks",
+      "incorrect_answers": [
+        "Only the tasks that contain the word weekly",
+        "The tasks ordered from highest to lowest cost",
+        "The total cost of each resource group"
+      ]
+    },
+    {
+      "question": "You cannot save custom settings that you have specified for which of the following?",
+      "correct_answer": "All of the above",
+      "incorrect_answers": [
+        "Sorting",
+        "Grouping",
+        "Filtering"
+      ]
+    }
+  ],
+  "setCount": 1
+}

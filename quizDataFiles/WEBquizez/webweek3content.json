@@ -1,0 +1,176 @@
+{
+  "results": [
+    {
+      "question": "In React, what is the purpose of the View Model in the MVVM pattern?",
+      "correct_answer": "To represent the data and operations on a UI",
+      "incorrect_answers": [
+        "To store the application's stored data",
+        "To create reusable components",
+        "To handle user actions"
+      ]
+    },
+    {
+      "question": "Which framework gained popularity and introduced the concept of 'components' in creating a User Interface?",
+      "correct_answer": "React",
+      "incorrect_answers": [
+        "Angular.js",
+        "Vue.js",
+        "Knockout"
+      ]
+    },
+    {
+      "question": "What is the recommended toolchain for building React applications?",
+      "correct_answer": "Create React App, Next.js, Gatsby, etc.",
+      "incorrect_answers": [
+        "Webpack, Babel, ESLint, Jest",
+        "Angular CLI",
+        "Vue CLI"
+      ]
+    },
+    {
+      "question": "Which framework provides the best developer experience for building React applications?",
+      "correct_answer": "Next.js",
+      "incorrect_answers": [
+        "Create React App",
+        "Gatsby",
+        "Neutrino"
+      ]
+    },
+    {
+      "question": "What command is used to create a new Next.js app?",
+      "correct_answer": "npx create-next-app",
+      "incorrect_answers": [
+        "npm init next-app",
+        "create-react-app",
+        "npx init-next-app"
+      ]
+    },
+    {
+      "question": "Which folder in a Next.js app contains the components that act as routes for the application?",
+      "correct_answer": "pages",
+      "incorrect_answers": [
+        "components",
+        "views",
+        "routes"
+      ]
+    },
+    {
+      "question": "What file extension is used for CSS modules in Next.js?",
+      "correct_answer": ".module.css",
+      "incorrect_answers": [
+        ".css",
+        ".styles",
+        ".module"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'public' folder in a Next.js app?",
+      "correct_answer": "To store static resources for the app",
+      "incorrect_answers": [
+        "To store server-side code",
+        "To store component files",
+        "To store configuration files"
+      ]
+    },
+    {
+      "question": "Which method is used to start a development server in a Next.js app?",
+      "correct_answer": "npm run dev",
+      "incorrect_answers": [
+        "npm start",
+        "npm run build",
+        "npm test"
+      ]
+    },
+    {
+      "question": "What is the name of the functional component defined in index.js?",
+      "incorrect_answers": [
+        "Head",
+        "Image",
+        "Inter"
+      ],
+      "correct_answer": "Home"
+    },
+    {
+      "question": "Which component is used to optimize font usage in Next.js?",
+      "incorrect_answers": [
+        "Head",
+        "Image",
+        "styles"
+      ],
+      "correct_answer": "Inter"
+    },
+    {
+      "question": "What is the purpose of CSS Modules in Next.js?",
+      "incorrect_answers": [
+        "To load Google Fonts",
+        "To append elements to the head tag",
+        "To optimize font usage"
+      ],
+      "correct_answer": "To include CSS classes with unique identifiers"
+    },
+    {
+      "question": "In JSX, how should empty elements be written?",
+      "incorrect_answers": [
+        "<br>",
+        "<br></br>",
+        "<br/>"
+      ],
+      "correct_answer": "<br />"
+    },
+    {
+      "question": "What is the purpose of using curly braces ({}) in JSX?",
+      "incorrect_answers": [
+        "To define a functional component",
+        "To declare variables",
+        "To specify attributes"
+      ],
+      "correct_answer": "To embed JavaScript expressions"
+    },
+    {
+      "question": "What is the purpose of JSX Fragments?",
+      "incorrect_answers": [
+        "To create self-closing tags",
+        "To specify component props",
+        "To declare CSS modules"
+      ],
+      "correct_answer": "To wrap multiple JSX elements"
+    },
+    {
+      "question": "Which property naming convention is used in JSX instead of HTML attribute names?",
+      "incorrect_answers": [
+        "snake_case",
+        "kebab-case",
+        "PascalCase"
+      ],
+      "correct_answer": "CamelCase"
+    },
+    {
+      "question": "How do functional components store and manage data internally?",
+      "incorrect_answers": [
+        "Using hooks",
+        "Using props",
+        "Using context"
+      ],
+      "correct_answer": "Using state"
+    },
+    {
+      "question": "Which hook allows functional components to manage state and perform side effects?",
+      "incorrect_answers": [
+        "useState",
+        "useContext",
+        "useReducer"
+      ],
+      "correct_answer": "useEffect"
+    },
+    {
+      "question": "What function is used to update the state value in a functional component?",
+      "incorrect_answers": [
+        "updateState",
+        "set",
+        "setStateValue"
+      ],
+      "correct_answer": "setState"
+    }
+  ],
+  "setCount": 2
+}

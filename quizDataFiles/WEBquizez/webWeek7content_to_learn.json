@@ -1,0 +1,365 @@
+{
+  "results": [
+    {
+      "question": "What is the core API concept of Recoil?",
+      "answer": "Atoms",
+      "incorrect": [
+        "Selectors",
+        "Components",
+        "Effects"
+      ]
+    },
+    {
+      "question": "What is the purpose of useEffect in React?",
+      "answer": "To perform side effects after rendering",
+      "incorrect": [
+        "To manage component state",
+        "To handle user events and actions",
+        "To create reusable custom hooks"
+      ]
+    },
+    {
+      "question": "What is JSX in React?",
+      "answer": "A syntax extension for JavaScript that allows writing HTML-like code",
+      "incorrect": [
+        "A state management library for React",
+        "A testing framework for React components",
+        "A build tool for bundling React applications"
+      ]
+    },
+    {
+      "question": "Which statement is true about React components?",
+      "answer": "Components are reusable building blocks for UI elements",
+      "incorrect": [
+        "Components are only used for rendering HTML",
+        "Components can only have class-based syntax",
+        "Components are not required in React"
+      ]
+    },
+    {
+      "question": "How can you define atoms in Jotai?",
+      "answer": "Using the atom function from the Jotai library",
+      "incorrect": [
+        "Using the useState hook from React",
+        "Using the createStore function from Redux",
+        "Using the createAtom function from Recoil"
+      ]
+    },
+    {
+      "question": "What does Redux offer as a state management solution?",
+      "answer": "A predictable state container for JavaScript applications",
+      "incorrect": [
+        "Efficient component re-rendering",
+        "Simplified component composition",
+        "Built-in server-side rendering"
+      ]
+    },
+    {
+      "question": "What is the purpose of Redux?",
+      "answer": "To manage application state",
+      "incorrect": [
+        "To create reusable React components",
+        "To handle asynchronous actions",
+        "To improve rendering performance"
+      ]
+    },
+    {
+      "question": "What are the problems associated with using context in React?",
+      "answer": "Organizational and performance issues",
+      "incorrect": [
+        "Components lose access to component state",
+        "Components become more complex to implement",
+        "Components become tightly coupled and dependent on each other"
+      ]
+    },
+    {
+      "question": "What is the purpose of actions in Redux?",
+      "answer": "To describe the intention to change the state",
+      "incorrect": [
+        "To define the structure of the state",
+        "To handle asynchronous operations",
+        "To render the UI components"
+      ]
+    },
+    {
+      "question": "What is an alternative to prop drilling in React?",
+      "answer": "Context",
+      "incorrect": [
+        "Redux",
+        "Recoil",
+        "MobX"
+      ]
+    },
+    {
+      "question": "What is the core principle of Redux?",
+      "answer": "The state of the whole application is stored in a single JavaScript object",
+      "incorrect": [
+        "Each component manages its own state",
+        "State is distributed across multiple server nodes",
+        "State is stored in separate local storage"
+      ]
+    },
+    {
+      "question": "What is the main concept in Recoil?",
+      "answer": "Atoms and selectors",
+      "incorrect": [
+        "Components and props",
+        "Actions and reducers",
+        "Hooks and effects"
+      ]
+    },
+    {
+      "question": "What is Recoil?",
+      "answer": "A state management library developed by Facebook",
+      "incorrect": [
+        "A testing library for React components",
+        "A JavaScript runtime environment for React",
+        "A CSS framework for React"
+      ]
+    },
+    {
+      "question": "What is Context in React?",
+      "answer": "A way to share values between components without passing props",
+      "incorrect": [
+        "A JavaScript library for building user interfaces",
+        "A method for handling HTTP requests in React",
+        "A CSS-in-JS solution for styling React components"
+      ]
+    },
+    {
+      "question": "What are the problems associated with prop drilling?",
+      "answer": "Components become harder to reuse and there is an impact on performance",
+      "incorrect": [
+        "Components lose access to component state",
+        "Components become more complex to implement",
+        "Components become tightly coupled and dependent on each other"
+      ]
+    },
+    {
+      "question": "What is Jotai?",
+      "answer": "A state management library for React inspired by Recoil",
+      "incorrect": [
+        "A utility library for managing side effects in React",
+        "A library for handling asynchronous actions in React",
+        "A routing library for React"
+      ]
+    },
+    {
+      "question": "What are atoms in Recoil?",
+      "answer": "Units of state that can be read from and written to",
+      "incorrect": [
+        "Components that consume state",
+        "Immutable data structures",
+        "Functions that transform state"
+      ]
+    },
+    {
+      "question": "What problem does Jotai solve?",
+      "answer": "Avoiding unnecessary re-renders and simplifying state management",
+      "incorrect": [
+        "Improving component performance",
+        "Enabling global state sharing",
+        "Simplifying prop drilling"
+      ]
+    },
+    {
+      "question": "What is the purpose of managing shared state in React?",
+      "answer": "To share data between multiple components",
+      "incorrect": [
+        "To make components re-render faster",
+        "To improve performance in React applications",
+        "To handle user events and interactions"
+      ]
+    },
+    {
+      "question": "What is the purpose of React Router?",
+      "answer": "To handle client-side routing in React applications",
+      "incorrect": [
+        "To manage component state",
+        "To fetch data from an API",
+        "To create reusable UI components"
+      ]
+    },
+    {
+      "question": "Which library is considered an alternative to Redux?",
+      "answer": "MobX",
+      "incorrect": [
+        "React Router",
+        "Axios",
+        "Lodash"
+      ]
+    },
+    {
+      "question": "What is the store in Redux?",
+      "answer": "A JavaScript object that holds the application state",
+      "incorrect": [
+        "A database for storing state data",
+        "A function that combines reducers",
+        "A component that renders the UI"
+      ]
+    },
+    {
+      "question": "What are the problems with prop drilling?",
+      "answer": "Components become harder to reuse and there is an impact on performance",
+      "incorrect": [
+        "Components lose access to state values",
+        "Components become tightly coupled",
+        "Components become less maintainable"
+      ]
+    },
+    {
+      "question": "What are the benefits of using Jotai for state management in Next.js?",
+      "answer": "Simplicity, efficiency, and support for Next.js",
+      "incorrect": [
+        "Advanced features and powerful tooling, and seamless integration with existing Redux setups",
+        "Improved performance and reduced bundle size",
+        "Built-in support for server-side rendering and static site generation"
+      ]
+    },
+    {
+      "question": "Which state management library is NOT mentioned as an alternative to prop drilling and Context?",
+      "answer": "React Router",
+      "incorrect": [
+        "Redux",
+        "Recoil",
+        "Zustand"
+      ]
+    },
+    {
+      "question": "What is the purpose of context in React?",
+      "answer": "To share values between components without passing props through every level of the tree",
+      "incorrect": [
+        "To manage global state in a React application",
+        "To handle user events and update component state",
+        "To create reusable components in React"
+      ]
+    },
+    {
+      "question": "What are selectors in Recoil?",
+      "answer": "Derived values that depend on atoms or other selectors",
+      "incorrect": [
+        "Actions triggered by user interactions",
+        "Components that render UI based on state",
+        "Middleware functions for handling side effects"
+      ]
+    },
+    {
+      "question": "What is the purpose of context in Jotai?",
+      "answer": "To provide access to atoms in components without passing props",
+      "incorrect": [
+        "To manage global state in a Jotai application",
+        "To handle user events and update atom values",
+        "To create reusable atoms in Jotai"
+      ]
+    },
+    {
+      "question": "How can you access the context values in a component?",
+      "answer": "Using the useContext hook",
+      "incorrect": [
+        "Using the useState hook",
+        "Using the useEffect hook",
+        "Using the useReducer hook"
+      ]
+    },
+    {
+      "question": "What is an advantage of using Jotai over Context in React?",
+      "answer": "Avoiding unnecessary re-renders",
+      "incorrect": [
+        "Simpler syntax",
+        "Better TypeScript support",
+        "Built-in Redux integration"
+      ]
+    },
+    {
+      "question": "What is the purpose of prop drilling in React?",
+      "answer": "To pass data from a top-level component to deeply nested components via props",
+      "incorrect": [
+        "To manage global state in a React application",
+        "To handle user events and update component state",
+        "To create reusable components in React"
+      ]
+    },
+    {
+      "question": "What is a Provider component in Context?",
+      "answer": "A component that provides the context values to its child components",
+      "incorrect": [
+        "A component that consumes the context values",
+        "A component that renders the UI based on context values",
+        "A component that manages the state of the context"
+      ]
+    },
+    {
+      "question": "Which component is responsible for declaring the application-level state in prop drilling?",
+      "answer": "Top-level component",
+      "incorrect": [
+        "Child component",
+        "Nested component",
+        "Leaf component"
+      ]
+    },
+    {
+      "question": "What is an atom in Jotai?",
+      "answer": "A unit of state that is updatable and subscribable",
+      "incorrect": [
+        "A component that encapsulates state and logic",
+        "A function that transforms the state",
+        "A utility for managing side effects in React"
+      ]
+    },
+    {
+      "question": "What do reducers do in Redux?",
+      "answer": "They specify how the state changes in response to actions",
+      "incorrect": [
+        "They control the flow of data in the application",
+        "They handle the API requests and responses",
+        "They manage the side effects of actions"
+      ]
+    },
+    {
+      "question": "What are the three building blocks of Redux?",
+      "answer": "Actions, reducers, and the store",
+      "incorrect": [
+        "Components, props, and state",
+        "Dispatchers, containers, and selectors",
+        "Providers, consumers, and contexts"
+      ]
+    },
+    {
+      "question": "What problem does Context solve?",
+      "answer": "Avoiding prop drilling and reducing the number of prop dependencies",
+      "incorrect": [
+        "Improving component reusability",
+        "Simplifying component state management",
+        "Optimizing component rendering"
+      ]
+    },
+    {
+      "question": "What is prop drilling?",
+      "answer": "Passing data through multiple levels of components using props",
+      "incorrect": [
+        "Using props to drill holes in the DOM",
+        "A drilling technique used in construction",
+        "Drilling a hole in the computer monitor"
+      ]
+    },
+    {
+      "question": "Which hook is used for managing side effects in React?",
+      "answer": "useEffect",
+      "incorrect": [
+        "useState",
+        "useReducer",
+        "useContext"
+      ]
+    },
+    {
+      "question": "What are the principles of Jotai?",
+      "answer": "Primitive and Flexible",
+      "incorrect": [
+        "Reusable and Composable",
+        "Efficient and Scalable",
+        "Simple and Intuitive"
+      ]
+    }
+  ],
+  "setAttempts": 0
+}

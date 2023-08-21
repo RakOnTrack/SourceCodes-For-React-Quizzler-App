@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "question": "Match the term in column 1 to its description in column 2.",
+      "correct_answer": "f. a ribbon that allows you to add or change the appearance of a view",
+      "incorrect_answers": [
+        "c. the right side of the Gantt Chart view",
+        "i. a window through which you can see the various elements of a project schedule",
+        "j. the dialog box that can be used to format the graphical components of the Gantt Chart view"
+      ]
+    },
+    {
+      "question": "True/False: When you make a change to a milestone using the Bar Styles dialog box, the change applies to all milestones in the Gantt chart.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "True/False: The Custom Fields dialog box allows the user to change the name of a custom field.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "True/False: In Microsoft Project, you can edit predefined tables but you cannot create new custom tables to suit your needs.",
+      "correct_answer": "F",
+      "incorrect_answers": [
+        "T"
+      ]
+    },
+    {
+      "question": "True/False: The Gantt Chart view can include only the task data without the bar chart.",
+      "correct_answer": "F",
+      "incorrect_answers": [
+        "T"
+      ]
+    },
+    {
+      "question": "True/False: When you make formatting changes to your project schedule, the data does not change, just the way it appears.",
+      "correct_answer": "F",
+      "incorrect_answers": [
+        "T"
+      ]
+    },
+    {
+      "question": "True/False: When you add, remove, or rearrange columns or change column widths, you are changing the table's definition.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "True/False: You can make almost any custom field part of a calculation for another custom field.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "True/False: If you format data using the Font dialog box, the changes apply to only the data you have specifically selected.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "True/False: The Gantt Chart Styles has more formatting choices than the Bar Styles dialog box.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    },
+    {
+      "question": "True/False: Changing the appearance of data in a view can make it easier to read and understand project data.",
+      "correct_answer": "T",
+      "incorrect_answers": [
+        "F"
+      ]
+    }
+  ],
+  "setCount": 4
+}

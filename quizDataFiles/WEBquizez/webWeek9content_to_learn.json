@@ -1,0 +1,248 @@
+{
+  "results": [
+    {
+      "question": "What does the NEXTAUTH_URL environment variable contain?",
+      "answer": "The URL of the Next.js app",
+      "incorrect": [
+        "The URL of the GitHub OAuth App",
+        "The URL of the server",
+        "The URL of the client"
+      ]
+    },
+    {
+      "question": "What command can be used to obtain the NEXTAUTH_SECRET value?",
+      "answer": "openssl rand -hex 32",
+      "incorrect": [
+        "npm install next-auth",
+        "npm run dev",
+        "generate-secret.now.sh/32"
+      ]
+    },
+    {
+      "question": "Which value is used to conditionally render the 'vehicles' link in the navigation bar?",
+      "answer": "token",
+      "incorrect": [
+        "user",
+        "loggedIn",
+        "authenticated"
+      ]
+    },
+    {
+      "question": "What programming language is used in the NextAuth.js example code?",
+      "answer": "TypeScript",
+      "incorrect": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "question": "Which of the following is not a built-in provider in NextAuth.js?",
+      "answer": "OAuth 2.0",
+      "incorrect": [
+        "Google",
+        "Facebook",
+        "GitHub"
+      ]
+    },
+    {
+      "question": "Which Next.js event is used to subscribe to route change events?",
+      "answer": "routeChangeComplete",
+      "incorrect": [
+        "routeChangeStart",
+        "routeChangeError",
+        "routeChange"
+      ]
+    },
+    {
+      "question": "How can you add a protected route in Next.js?",
+      "answer": "Create a new page and use user authentication logic",
+      "incorrect": [
+        "Modify the NextAuth.js configuration",
+        "Add a link to the header",
+        "Use iron-session in the API routes"
+      ]
+    },
+    {
+      "question": "What type of authentication does NextAuth.js provide?",
+      "answer": "JWT, email/password, magic links, and more",
+      "incorrect": [
+        "OAuth 2.0",
+        "Basic authentication",
+        "Two-factor authentication"
+      ]
+    },
+    {
+      "question": "Which method is used to unsubscribe from a router event?",
+      "answer": "router.events.off()",
+      "incorrect": [
+        "router.events.unsubscribe()",
+        "router.events.remove()",
+        "router.events.stop()"
+      ]
+    },
+    {
+      "question": "Where should you store the SECRET_COOKIE_PASSWORD in a Next.js app for local development?",
+      "answer": "Inside a .env.local gitignored file",
+      "incorrect": [
+        "Inside a .env.development file",
+        "Inside the server.js file",
+        "Directly in the GitHub repository"
+      ]
+    },
+    {
+      "question": "What information is required to log in using NextAuth with GitHub credentials?",
+      "answer": "A valid GitHub username",
+      "incorrect": [
+        "A valid email address",
+        "A valid password",
+        "A valid access token"
+      ]
+    },
+    {
+      "question": "What information does the session object contain?",
+      "answer": "User's name and avatar image",
+      "incorrect": [
+        "User's email and password",
+        "User's access token",
+        "User's GitHub repositories"
+      ]
+    },
+    {
+      "question": "What is the purpose of the readToken() function?",
+      "answer": "To obtain the payload from the JWT",
+      "incorrect": [
+        "To remove the token from localStorage",
+        "To authenticate the user",
+        "To read the token from sessionStorage"
+      ]
+    },
+    {
+      "question": "Where is the JWT token stored after a successful login?",
+      "answer": "localStorage",
+      "incorrect": [
+        "sessionStorage",
+        "cookies",
+        "memory"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'Homepage URL' field when registering a GitHub OAuth App?",
+      "answer": "To specify the full URL to the app's homepage",
+      "incorrect": [
+        "To specify the API endpoint",
+        "To specify the client ID",
+        "To specify the client secret"
+      ]
+    },
+    {
+      "question": "How is the logout link conditionally rendered in the Navigation component?",
+      "answer": "{token && <Nav.Link onClick={logout}>Logout</Nav.Link>}",
+      "incorrect": [
+        "{!token && <Nav.Link onClick={logout}>Logout</Nav.Link>}",
+        "{token ? <Nav.Link onClick={logout}>Logout</Nav.Link> : null}",
+        "{token ? null : <Nav.Link onClick={logout}>Logout</Nav.Link>}"
+      ]
+    },
+    {
+      "question": "Which hook is used to access the router object in Next.js?",
+      "answer": "useRouter",
+      "incorrect": [
+        "useRoute",
+        "useNavigation",
+        "useLocation"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'localStorage' storage mechanism?",
+      "answer": "To store data across browser sessions",
+      "incorrect": [
+        "To store data temporarily during the current session",
+        "To store data on the server",
+        "To store data on the client's device permanently"
+      ]
+    },
+    {
+      "question": "Which method is used to execute a POST request to the login route of the server?",
+      "answer": "fetch()",
+      "incorrect": [
+        "axios()",
+        "get()",
+        "post()"
+      ]
+    },
+    {
+      "question": "Which functionality in Next.js allows static pages to be created/updated after the site is built?",
+      "answer": "Incremental Static Regeneration",
+      "incorrect": [
+        "Server Side Rendering",
+        "Client Side Rendering",
+        "Static Rendering"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a component included in the NextAuth.js example code?",
+      "answer": "AccessGranted",
+      "incorrect": [
+        "AccessDenied",
+        "Layout",
+        "Header"
+      ]
+    },
+    {
+      "question": "What is the purpose of Iron-Session in Next.js?",
+      "answer": "To store session data in encrypted cookies",
+      "incorrect": [
+        "To manage OAuth 2.0 authentication",
+        "To store session data in local storage",
+        "To implement JSON Web Tokens (JWT)"
+      ]
+    },
+    {
+      "question": "What should you do if the sign-in options on the NextAuth demo app are not functioning?",
+      "answer": "Configure a GitHub Authentication Provider",
+      "incorrect": [
+        "Use the --ts flag when creating the Next.js app",
+        "Modify the .tsconfig file",
+        "Install the NextAuth.js package"
+      ]
+    },
+    {
+      "question": "What is the purpose of the .tsconfig file in the NextAuth.js example?",
+      "answer": "To configure TypeScript settings",
+      "incorrect": [
+        "To store environment variables",
+        "To configure NextAuth.js providers",
+        "To define session options"
+      ]
+    },
+    {
+      "question": "What should you do before attempting to log in with GitHub on the NextAuth demo app?",
+      "answer": "Log out of GitHub in other tabs",
+      "incorrect": [
+        "Log in to GitHub in other tabs",
+        "Install the NextAuth.js package",
+        "Restart the app"
+      ]
+    },
+    {
+      "question": "Which value is used to conditionally render the 'login' link in the Navigation component?",
+      "answer": "!token",
+      "incorrect": [
+        "user",
+        "loggedIn",
+        "authenticated"
+      ]
+    },
+    {
+      "question": "Which type of rendering allows pages to be pre-rendered using Server Side Rendering (SSR)?",
+      "answer": "Server Side Rendering",
+      "incorrect": [
+        "Client Side Rendering",
+        "Incremental Static Regeneration",
+        "Static Rendering"
+      ]
+    }
+  ],
+  "setAttempts": 0
+}

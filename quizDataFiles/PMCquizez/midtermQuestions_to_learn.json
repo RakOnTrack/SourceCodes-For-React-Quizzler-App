@@ -1,0 +1,320 @@
+{
+  "results": [
+    {
+      "question": "Which document contains a deliverable-oriented grouping of the work involved in a project that defines the total scope of the project?",
+      "answer": "work breakdown structure",
+      "incorrect": [
+        "project charter",
+        "business case",
+        "project scope statement"
+      ]
+    },
+    {
+      "question": "Which technique involves doing activities in parallel that one would normally do in sequence?",
+      "answer": "Fast tracking",
+      "incorrect": [
+        "Critical chain scheduling",
+        "Crashing",
+        "PERT analysis"
+      ]
+    },
+    {
+      "question": "Which process involves identifying and modeling business events, who initiated them, and how the system should respond to them?",
+      "answer": "Use case modeling",
+      "incorrect": [
+        "Prototyping",
+        "JAD",
+        "RAD"
+      ]
+    },
+    {
+      "question": "Which type of tool is usually recommended for small projects and single users?",
+      "answer": "Low-end tools",
+      "incorrect": [
+        "High-end tools",
+        "Mid-range tools",
+        "Enterprise tools"
+      ]
+    },
+    {
+      "question": "What is often the most difficult and unappreciated process in project management?",
+      "answer": "Planning",
+      "incorrect": [
+        "Executing",
+        "Controlling",
+        "Closing"
+      ]
+    },
+    {
+      "question": "What process involves identifying and controlling the functional and physical design characteristics of products and their support documentation, and ensures that the descriptions of the project\u2019s products are correct and complete?",
+      "answer": "Configuration management",
+      "incorrect": [
+        "Change management",
+        "Risk management",
+        "Quality management"
+      ]
+    },
+    {
+      "question": "What term is used for the amount of time an activity can be delayed without delaying the early start date of any immediately following activities?",
+      "answer": "free slack",
+      "incorrect": [
+        "total slack",
+        "float time",
+        "buffer time"
+      ]
+    },
+    {
+      "question": "Which framework is an iterative software development process that focuses on team productivity and delivers software best practices to all team members?",
+      "answer": "Agile",
+      "incorrect": [
+        "Waterfall",
+        "Scrum",
+        "Kanban"
+      ]
+    },
+    {
+      "question": "In project schedule management, which process primarily involves identifying and documenting the relationships between project activities?",
+      "answer": "sequencing activities",
+      "incorrect": [
+        "estimating activity durations",
+        "developing the schedule",
+        "controlling the schedule"
+      ]
+    },
+    {
+      "question": "A Gantt chart is a standard format for displaying project schedule information by listing project activities and their corresponding start and finish dates in a ____ format.",
+      "answer": "calendar",
+      "incorrect": [
+        "line graph",
+        "bar graph",
+        "pie chart"
+      ]
+    },
+    {
+      "question": "Which is an example of an organizational process asset?",
+      "answer": "Management systems",
+      "incorrect": [
+        "The organization\u2019s infrastructure",
+        "Government standards",
+        "Marketplace conditions"
+      ]
+    },
+    {
+      "question": "Which action involves reviewing the project charter, requirements documents, and organizational process assets to create a scope statement, adding more information as requirements are developed and change requests are approved?",
+      "answer": "Defining scope",
+      "incorrect": [
+        "Creating scope",
+        "Controlling scope",
+        "Validating scope"
+      ]
+    },
+    {
+      "question": "What processes include defining and authorizing a project or project phase?",
+      "answer": "Initiating processes",
+      "incorrect": [
+        "Planning processes",
+        "Executing processes",
+        "Closing processes"
+      ]
+    },
+    {
+      "question": "Which perspective of an organization focuses on different groups\u2019 roles and responsibilities in order to meet the goals and policies set by top management?",
+      "answer": "structural frame",
+      "incorrect": [
+        "human resources frame",
+        "political frame",
+        "symbolic frame"
+      ]
+    },
+    {
+      "question": "In project schedule management, which process involves analyzing activity sequences, activity resource estimates, and activity duration estimates to create the project schedule?",
+      "answer": "developing the schedule",
+      "incorrect": [
+        "planning schedule management",
+        "controlling the schedule",
+        "defining activities"
+      ]
+    },
+    {
+      "question": "Which characteristic of organizational culture refers to the degree to which the organization monitors and responds to changes in the external environment?",
+      "answer": "Open-systems focus",
+      "incorrect": [
+        "Team orientation",
+        "Aggressiveness",
+        "Innovation and risk-taking"
+      ]
+    },
+    {
+      "question": "Which document should list and describe all of the deliverables required for the project?",
+      "answer": "scope statement",
+      "incorrect": [
+        "project charter",
+        "WBS",
+        "Gantt chart"
+      ]
+    },
+    {
+      "question": "What is the latest possible time an activity might begin without delaying the project finish date?",
+      "answer": "late start date",
+      "incorrect": [
+        "early start date",
+        "late finish date",
+        "early finish date"
+      ]
+    },
+    {
+      "question": "Which section of the project management plan provides the planned cost of deliverables?",
+      "answer": "budget",
+      "incorrect": [
+        "schedule",
+        "risk",
+        "quality"
+      ]
+    },
+    {
+      "question": "Which technique involves network diagramming and is used primarily to predict total project duration?",
+      "answer": "Critical path method (CPM)",
+      "incorrect": [
+        "Fast tracking",
+        "Crashing",
+        "PERT analysis"
+      ]
+    },
+    {
+      "question": "In organizational culture, what does control refer to?",
+      "answer": "The degree to which rules, policies, and direct supervision are used to oversee employee behavior",
+      "incorrect": [
+        "The degree to which the organization monitors and responds to changes in the external environment",
+        "The degree to which employees are encouraged to be aggressive, innovative, and risk-seeking",
+        "The degree to which the organization encourages teamwork and collaboration"
+      ]
+    },
+    {
+      "question": "Which process includes defining project scope, benefits, and constraints?",
+      "answer": "project planning",
+      "incorrect": [
+        "business area analysis",
+        "resource allocation",
+        "information technology strategy planning"
+      ]
+    },
+    {
+      "question": "Which process involves developing a working replica of the system or some aspect of the system?",
+      "answer": "Prototyping",
+      "incorrect": [
+        "JAD",
+        "RAD",
+        "Use case modeling"
+      ]
+    },
+    {
+      "question": "Which stage of information technology planning outlines business processes that are central to achieving strategic goals and helps determine which ones could most benefit from information technology?",
+      "answer": "business area analysis",
+      "incorrect": [
+        "business case development",
+        "information systems strategy",
+        "technology infrastructure planning"
+      ]
+    },
+    {
+      "question": "In which systems development life cycle do model developers use a model to generate functional requirements and physical design specifications simultaneously?",
+      "answer": "Prototyping life cycle",
+      "incorrect": [
+        "RAD life cycle",
+        "Spiral life cycle",
+        "Waterfall life cycle"
+      ]
+    },
+    {
+      "question": "Which is recommended for the creation of a good WBS?",
+      "answer": "A unit of work should appear at only one place in the WBS.",
+      "incorrect": [
+        "Any WBS item should be the responsibility of all the people working on it.",
+        "Each WBS item should be created assuming that the requirements are inflexible.",
+        "The work content of a WBS item is independent of the WBS items below it."
+      ]
+    },
+    {
+      "question": "Which goal distinguishes project management and portfolio management?",
+      "answer": "Portfolio management asks questions like, \u201cAre we carrying out projects efficiently?\u201d whereas project management asks questions such as \u201cAre we investing in the right areas?\u201d",
+      "incorrect": [
+        "Project management involves making wise investment decisions whereas portfolio management does not.",
+        "Portfolio management is an easy task whereas project management is a more difficult task.",
+        "Project management addresses specific, short-term goals whereas portfolio management focuses on long-term goals."
+      ]
+    },
+    {
+      "question": "The organization recognizes that a new project exists and completes a project charter during which processes for a new project?",
+      "answer": "initiating",
+      "incorrect": [
+        "planning",
+        "opening",
+        "controlling"
+      ]
+    },
+    {
+      "question": "Which document is most likely to include planned project start and end dates which serve as the starting points for a detailed schedule?",
+      "answer": "project charter",
+      "incorrect": [
+        "project scope statement",
+        "work breakdown structure",
+        "Gantt chart"
+      ]
+    },
+    {
+      "question": "Which organization provides certification as a Project Management Professional?",
+      "answer": "PMI",
+      "incorrect": [
+        "PRINCE2",
+        "ITIL",
+        "APM"
+      ]
+    },
+    {
+      "question": "In project schedule management, which process primarily involves checking and managing changes to the project schedule?",
+      "answer": "controlling the schedule",
+      "incorrect": [
+        "planning schedule management",
+        "developing the schedule",
+        "defining activities"
+      ]
+    },
+    {
+      "question": "What is the main technique used in creating a WBS, which involves subdividing project deliverables into smaller pieces?",
+      "answer": "decomposition",
+      "incorrect": [
+        "aggregation",
+        "integration",
+        "summation"
+      ]
+    },
+    {
+      "question": "Which term is used for a significant event on a project that normally has no duration?",
+      "answer": "milestone",
+      "incorrect": [
+        "task",
+        "activity",
+        "deliverable"
+      ]
+    },
+    {
+      "question": "Which process is undertaken to reduce the probability of negative consequences associated with project risks?",
+      "answer": "Preventive actions",
+      "incorrect": [
+        "Performance reports",
+        "Defect repairs",
+        "Corrective actions"
+      ]
+    },
+    {
+      "question": "What type of analysis involves calculating the expected net monetary gain or loss from a project by discounting all expected future cash inflows and outflows to the present point in time?",
+      "answer": "Net present value (NPV) analysis",
+      "incorrect": [
+        "Cost-benefit analysis",
+        "Return on investment (ROI) analysis",
+        "Internal rate of return (IRR) analysis"
+      ]
+    }
+  ],
+  "setAttempts": 1
+}

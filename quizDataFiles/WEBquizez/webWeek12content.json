@@ -1,0 +1,239 @@
+{
+  "results": [
+    {
+      "question": "What are Core Web Vitals?",
+      "correct_answer": "Subset of Web Vitals metrics focusing on user experience aspects like loading, interactivity, and visual stability.",
+      "incorrect_answers": [
+        "A set of metrics used to measure server performance.",
+        "A new JavaScript framework developed by Google.",
+        "A subset of Google's ranking algorithm."
+      ]
+    },
+    {
+      "question": "Which aspects of user experience do Core Web Vitals focus on?",
+      "correct_answer": "Loading, interactivity, and visual stability.",
+      "incorrect_answers": [
+        "Accessibility, security, and responsiveness.",
+        "Design, animation, and user engagement.",
+        "Server response time, content quality, and conversion rate."
+      ]
+    },
+    {
+      "question": "What does Largest Contentful Paint (LCP) measure?",
+      "correct_answer": "Loading performance of the page by measuring the time to show the largest element within the viewport.",
+      "incorrect_answers": [
+        "Time taken for the browser to process user interactions.",
+        "Time taken for layout calculations to complete.",
+        "Time taken to display the first meaningful content on the page."
+      ]
+    },
+    {
+      "question": "What does First Input Delay (FID) measure?",
+      "correct_answer": "Time from user interaction to the browser processing event handlers.",
+      "incorrect_answers": [
+        "Time taken to load all external resources on the page.",
+        "Time taken for the browser to render the page.",
+        "Time taken for animations and transitions to complete."
+      ]
+    },
+    {
+      "question": "What does Cumulative Layout Shift (CLS) measure?",
+      "correct_answer": "Overall layout stability of the site, considering elements shifting after initial render.",
+      "incorrect_answers": [
+        "The time it takes for the largest element to become visible on the page.",
+        "The time it takes for a page to become interactive.",
+        "The amount of visual changes made by JavaScript animations."
+      ]
+    },
+    {
+      "question": "What is Lighthouse?",
+      "correct_answer": "An open-source tool for measuring web page quality and performance.",
+      "incorrect_answers": [
+        "A proprietary tool developed by Google for internal use.",
+        "A JavaScript framework for building interactive web applications.",
+        "A programming language used for server-side scripting."
+      ]
+    },
+    {
+      "question": "How does the Image component in Next.js optimize loading?",
+      "correct_answer": "Serving correctly sized images for different devices, using modern formats.",
+      "incorrect_answers": [
+        "Automatically converting images to grayscale for faster loading.",
+        "Using inline SVGs for all images.",
+        "Loading images using a single base64-encoded sprite."
+      ]
+    },
+    {
+      "question": "What does SSR stand for in the context of Next.js optimization?",
+      "correct_answer": "Server-Side Rendering",
+      "incorrect_answers": [
+        "Static Site Rendering",
+        "Single-Source Routing",
+        "Shared-State Redux"
+      ]
+    },
+    {
+      "question": "What is the purpose of Core Web Vitals?",
+      "correct_answer": "To provide guidelines and metrics for creating performant websites",
+      "incorrect_answers": [
+        "To showcase Google's latest technologies",
+        "To create a new programming language for web development",
+        "To encourage excessive use of animations and effects"
+      ]
+    },
+    {
+      "question": "What does LCP stand for in Core Web Vitals?",
+      "correct_answer": "Largest Contentful Paint",
+      "incorrect_answers": [
+        "Last Clicked Page",
+        "Lazy Caching Process",
+        "Load-Cached Page"
+      ]
+    },
+    {
+      "question": "What does FID measure in Core Web Vitals?",
+      "correct_answer": "Time between user interaction and browser processing",
+      "incorrect_answers": [
+        "Time taken to fully load a web page",
+        "Time taken to render the first element on a page",
+        "Time taken to load external scripts and styles"
+      ]
+    },
+    {
+      "question": "What does CLS indicate in Core Web Vitals?",
+      "correct_answer": "Layout stability of a site",
+      "incorrect_answers": [
+        "Speed of JavaScript execution",
+        "Performance of the network connection",
+        "Size of browser's cache"
+      ]
+    },
+    {
+      "question": "How can Lighthouse be run?",
+      "correct_answer": "In Chrome DevTools, from the command line, or as a Node module",
+      "incorrect_answers": [
+        "Only as a GitHub action",
+        "As a standalone desktop application",
+        "In a separate browser window"
+      ]
+    },
+    {
+      "question": "What does the Lighthouse tool help developers with?",
+      "correct_answer": "Identifying and improving web page metrics",
+      "incorrect_answers": [
+        "Creating visually appealing animations",
+        "Writing complex backend code",
+        "Optimizing database queries"
+      ]
+    },
+    {
+      "question": "What is the recommended Largest Contentful Paint (LCP) time according to Google?",
+      "correct_answer": "2.5 seconds or less",
+      "incorrect_answers": [
+        "5 seconds or less",
+        "1 second or less",
+        "10 seconds or less"
+      ]
+    },
+    {
+      "question": "What is the target First Input Delay (FID) time according to Google?",
+      "correct_answer": "100 milliseconds or less",
+      "incorrect_answers": [
+        "500 milliseconds or less",
+        "50 milliseconds or less",
+        "1 second or less"
+      ]
+    },
+    {
+      "question": "What is the recommended Cumulative Layout Shift (CLS) score according to Google?",
+      "correct_answer": "0.1 or less",
+      "incorrect_answers": [
+        "0.5 or less",
+        "1.0 or less",
+        "0.01 or less"
+      ]
+    },
+    {
+      "question": "What is the purpose of using the <Image /> component in Next.js?",
+      "correct_answer": "To improve performance by serving correctly sized images",
+      "incorrect_answers": [
+        "To add visual effects to web pages",
+        "To improve the layout stability of a site",
+        "To optimize database queries"
+      ]
+    },
+    {
+      "question": "What does the 'priority' property in the <Image /> component do?",
+      "correct_answer": "Marks the image as priority to preload",
+      "incorrect_answers": [
+        "Specifies the image quality",
+        "Controls the animation speed",
+        "Defines the image size"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'sizes' property in the <Image /> component?",
+      "correct_answer": "To specify the image width at different breakpoints",
+      "incorrect_answers": [
+        "To set the image quality",
+        "To define the image height",
+        "To control the image position"
+      ]
+    },
+    {
+      "question": "What is the recommended approach for using remote images with the <Image /> component?",
+      "correct_answer": "Define the remote domains in 'images.domains' in next.config.js",
+      "incorrect_answers": [
+        "Use relative URLs instead of absolute URLs",
+        "Include remote images in your bundle",
+        "Disable the image optimization feature"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'dynamic' function in Next.js?",
+      "correct_answer": "To dynamically import external libraries and components",
+      "incorrect_answers": [
+        "To create dynamic animations on web pages",
+        "To generate dynamic content for databases",
+        "To optimize routing in Next.js"
+      ]
+    },
+    {
+      "question": "What is the main advantage of dynamically importing components in Next.js?",
+      "correct_answer": "Reduces initial bundle size and improves performance",
+      "incorrect_answers": [
+        "Enables faster server-side rendering",
+        "Allows components to be used across different projects",
+        "Enhances security of web applications"
+      ]
+    },
+    {
+      "question": "What is the benefit of using server-side rendering (SSR) for web pages?",
+      "correct_answer": "Reduces time to first render and improves performance",
+      "incorrect_answers": [
+        "Increases the need for client-side scripting",
+        "Enhances browser compatibility",
+        "Simplifies styling of web pages"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'getStaticProps' function in Next.js?",
+      "correct_answer": "To pre-render static data on the server for better performance",
+      "incorrect_answers": [
+        "To create dynamic animations on web pages",
+        "To fetch data from external APIs",
+        "To handle user input and form submissions"
+      ]
+    },
+    {
+      "question": "What is the final optimization discussed in the content?",
+      "correct_answer": "Using server-side rendering (SSR) for pre-rendering",
+      "incorrect_answers": [
+        "Including a large number of external libraries",
+        "Using inline styles instead of external CSS",
+        "Using animations for all UI elements"
+      ]
+    }
+  ],
+  "setCount": 2
+}
