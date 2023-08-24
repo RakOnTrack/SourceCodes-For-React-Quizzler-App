@@ -1,0 +1,39 @@
+
+Step 1: Creating a "User" API
+
+im a bit overwhelmed by the jwt secret thing. i dont exactly remember how it works.
+
+
+im really confused about the whole JWTstrategy thing. i can just go through the notes again to find how its supposed to be done.
+
+
+Step 2: Updating our Next.js App (utility / "lib" functions)
+     - 
+
+
+Step 3: Updating our Next.js App (Login and Register components): 
+     - 
+
+
+Step 4: Updating our Next.js App (New "Favourites" functionality): 
+     - 
+
+
+Step 5: Updating our Next.js App (New "History" functionality): 
+     - 
+
+
+Step 6: Updating our Next.js App ("Route Guard" functionality): 
+     - 
+
+
+Step 7: Updating our Next.js App ("Navbar" UI): 
+     - 
+
+
+Step 8: Publishing our App on Vercel: 
+     - 
+
+
+
+
